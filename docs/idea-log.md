@@ -1,24 +1,24 @@
 # Initial IT Venture Idea Log
 
-## Idea 1: Smart Campus Lost-and-Found System
+## Idea 1: Smart Classroom Attendance System
 
 ### Problem Area
-Students often lose items on campus and do not know where to report or search for them.
+Lecturers and students spend time managing attendance manually, which can lead to errors, proxy attendance, and lost records.
 
 ### Target Users
-University students, security staff, and administrative staff.
+University lecturers, students, and academic administrators.
 
 ### Current Alternative
-Students usually post in chat groups or ask security manually.
+Paper attendance sheets, manual sign-ins, or attendance taken verbally during class.
 
 ### Proposed IT Solution
-A web-based lost-and-found platform where users can report found items, search missing items, and contact the responsible office.
+A web-based attendance system that allows students to check in using a QR code generated for each class session. Lecturers can view attendance records and reports through a dashboard.
 
 ### Possible Technology
-HTML/CSS/JavaScript, Google Sheets database, image upload feature.
+HTML, CSS, JavaScript, QR Code Generator, Google Sheets or Firebase database.
 
 ### Why This Is Suitable
-Can be built as a simple web application within one semester.
+The project can be developed as a web prototype within one semester. It involves UI/UX design, database integration, QR code functionality, and basic reporting features while solving a real campus problem.
 
 ---
 
