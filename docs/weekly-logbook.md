@@ -33,3 +33,35 @@ The team decided to explore three potential IT venture ideas: Smart Classroom At
 1. Conduct opportunity scanning and user research.
 2. Gather feedback from potential users through interviews or surveys.
 3. Analyze existing solutions and identify the most feasible project idea for MVP development.
+
+
+## Lab 02: IT Opportunity Scanning
+
+### What We Completed
+1.
+2.
+3.
+
+### Selected Opportunity
+Write the selected project title.
+
+### Why We Selected It
+Explain the decision using NUF scoring.
+
+### What We Rejected
+Mention at least one idea that was rejected and explain why.
+
+### What We Learned
+1.
+2.
+3.
+
+### Evidence of Work
+- Opportunity scan file:
+- NUF scoring file:
+- Selected opportunity file:
+- GitHub issue screenshot:
+- Commit link:
+
+### Plan for Lab 03
+Write how the team will conduct customer problem discovery.
