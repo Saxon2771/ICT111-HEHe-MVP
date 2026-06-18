@@ -69,23 +69,19 @@ Possible technologies:
 ## Weekly Progress Log
 
 | Lab | Main Activity | Output | Status |
-|---|---|---|---|
+|-----|---------------|--------|--------|
 | Lab 1 | Lab setup and idea log | Repository, team profile, initial idea log | Completed |
 
 ## Current Status
-
 During Lab 1, our team successfully created the GitHub repository and established the required folder structure. We assigned team roles and responsibilities, prepared the team profile documentation, and documented three potential IT venture ideas. We also created GitHub Issues and a weekly venture logbook to support project management throughout the semester. The repository is now ready for future prototype development and validation activities.
 
 ## Next Step
-
 In Lab 2, our team will conduct opportunity scanning and user research to evaluate the three proposed ideas. We will identify target users, collect feedback, analyze existing alternatives, and determine which idea has the strongest potential to become a feasible MVP for the semester project.
 
 ## Initial Problem Area
-
 Many universities still rely on manual attendance methods such as paper sign-in sheets and verbal attendance checks. These methods are time-consuming, prone to errors, and make attendance records difficult to manage efficiently.
 
 ## Target Users
-
 - University students
 - Lecturers and instructors
 - Academic administrators
