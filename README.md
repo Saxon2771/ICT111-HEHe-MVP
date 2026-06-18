@@ -79,3 +79,23 @@ During Lab 1, our team successfully created the GitHub repository and establishe
 ## Next Step
 
 In Lab 2, our team will conduct opportunity scanning and user research to evaluate the three proposed ideas. We will identify target users, collect feedback, analyze existing alternatives, and determine which idea has the strongest potential to become a feasible MVP for the semester project.
+
+## Initial Problem Area
+
+Many universities still rely on manual attendance methods such as paper sign-in sheets and verbal attendance checks. These methods are time-consuming, prone to errors, and make attendance records difficult to manage efficiently.
+
+## Target Users
+
+- University students
+- Lecturers and instructors
+- Academic administrators
+
+## Selected IT Venture Direction
+
+### Smart Attendance System
+
+The team has selected the Smart Attendance System as the primary project direction based on opportunity scanning and NUF scoring results. The system will allow students to record attendance using QR codes while providing lecturers with a dashboard to monitor attendance records and generate reports. The solution aims to improve accuracy, reduce administrative work, and simplify attendance management.
+
+## Current Status
+
+During Lab 2, the team conducted opportunity scanning and identified six potential IT opportunities from real-world observations. These opportunities were evaluated using the NUF (New, Useful, Feasible) scoring method. After comparing the results, the Smart Attendance System received the highest score and was selected as the project's primary venture direction. The team also prepared customer discovery plans and GitHub Issues for the next phase of validation.
