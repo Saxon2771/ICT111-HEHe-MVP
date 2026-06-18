@@ -38,30 +38,32 @@ The team decided to explore three potential IT venture ideas: Smart Classroom At
 ## Lab 02: IT Opportunity Scanning
 
 ### What We Completed
-1.
-2.
-3.
+1. Reviewed the three IT venture ideas from Lab 1.
+2. Identified six potential IT opportunities based on real-world problems.
+3. Conducted Technology Feasibility Mapping for each opportunity.
+4. Applied NUF (New, Useful, Feasible) scoring to evaluate all opportunities.
+5. Selected the Smart Classroom Attendance System as the most promising project idea.
+6. Created the selected-opportunity.md documentation and updated project records.
 
 ### Selected Opportunity
-Write the selected project title.
+**Smart Classroom Attendance System**
 
-### Why We Selected It
-Explain the decision using NUF scoring.
+### Why It Was Selected
+The Smart Classroom Attendance System received the highest NUF score among all evaluated opportunities. It is useful because it solves a common attendance management problem experienced by students and lecturers. It is feasible to develop as a web-based MVP within one semester and provides clear value through QR-code-based attendance tracking and automated reporting.
 
-### What We Rejected
-Mention at least one idea that was rejected and explain why.
+### Rejected Idea
+**Campus Event Notification System**
+
+This idea was not selected because it received a lower NUF score. Although it is useful, many students already receive event information through existing platforms such as social media pages, messaging groups, and university websites. Therefore, its uniqueness and potential impact were lower than the selected opportunity.
 
 ### What We Learned
-1.
-2.
-3.
-
-### Evidence of Work
-- Opportunity scan file:
-- NUF scoring file:
-- Selected opportunity file:
-- GitHub issue screenshot:
-- Commit link:
+1. How to identify real-world IT opportunities.
+2. How to evaluate ideas using the NUF framework.
+3. The importance of balancing innovation, usefulness, and feasibility when selecting a project.
 
 ### Plan for Lab 03
-Write how the team will conduct customer problem discovery.
+1. Prepare customer discovery questions.
+2. Identify target respondents for interviews and surveys.
+3. Conduct initial customer discovery activities.
+4. Validate the selected problem with potential users.
+5. Document findings and update project documentation.
