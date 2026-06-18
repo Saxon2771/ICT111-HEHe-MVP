@@ -17,14 +17,14 @@
 2. Deciding on the most suitable IT venture idea for the semester project.
 
 ### Evidence of Work
-- GitHub repository link: [Paste repository link here]
+- GitHub repository link: (https://github.com/Saxon2771/ICT111-HEHe-MVP.git)
 - Screenshot: Repository structure and GitHub Issues screenshots
 - File created:
   - docs/team-profile.md
   - docs/idea-log.md
   - docs/weekly-logbook.md
   - README.md
-- Commit link: [Paste commit history link here]
+- Commit link: (https://github.com/Saxon2771/ICT111-HEHe-MVP.git)
 
 ### Decision Made This Week
 The team decided to explore three potential IT venture ideas: Smart Classroom Attendance System, Student Study Group Finder, and Campus Event Notification System. The final project idea will be selected after opportunity scanning and user validation in Lab 2.
