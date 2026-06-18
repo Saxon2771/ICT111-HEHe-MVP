@@ -24,7 +24,6 @@
   - docs/idea-log.md
   - docs/weekly-logbook.md
   - README.md
-- Commit link: (https://github.com/Saxon2771/ICT111-HEHe-MVP.git)
 
 ### Decision Made This Week
 The team decided to explore three potential IT venture ideas: Smart Classroom Attendance System, Student Study Group Finder, and Campus Event Notification System. The final project idea will be selected after opportunity scanning and user validation in Lab 2.
