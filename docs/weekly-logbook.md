@@ -69,43 +69,26 @@ This idea was not selected because it received a lower NUF score. Although it is
 
 
 
-## Lab 03: Customer Problem Discovery
+## Lab 3: Customer Problem Discovery
 
 ### What We Completed
-
 1. Defined target respondents.
 2. Prepared customer discovery questions.
-3. Collected and analyzed initial evidence.
+3. Collected attendance-related evidence.
+4. Created assumption-evidence table.
+5. Updated project documentation.
 
-### What We Learned About the Problem
-
-1. Attendance recording consumes valuable class time.
-2. Paper attendance methods are prone to errors.
-3. Users prefer a faster and more accurate solution.
-
-### What Evidence We Collected
-
-- Number of respondents/interviews: 10
-- Evidence file: raw-responses.xlsx
-- Key repeated pattern: Attendance checking is slow and inefficient.
-
-### What We Changed Based on Evidence
-
-We refined our project focus toward attendance speed and record accuracy.
+### What We Learned
+1. Real user evidence is important before building features.
+2. Attendance problems affect both students and lecturers.
+3. Customer discovery helps validate project direction.
 
 ### Problems or Difficulties
+1. Finding respondents.
+2. Collecting consistent responses.
 
-1. Finding available respondents.
-2. Collecting detailed feedback within a limited time.
+### Decision Made This Week
+The team confirmed that attendance management remains a valid problem and will continue with the Smart Classroom Attendance System.
 
-### Evidence of Work
-
-- GitHub repository link: [Insert Link]
-- Customer questions file: docs/customer-questions.md
-- Raw responses file: data/raw-responses.xlsx
-- Assumption-evidence table: docs/assumption-evidence-table.md
-- Commit link: [Insert Link]
-
-### Plan for Lab 04
-
-Create customer personas, define user requirements, and write user stories for the Smart Classroom Attendance System.
+### Plan for Next Week
+Begin MVP feature planning and low-fidelity prototype design.
