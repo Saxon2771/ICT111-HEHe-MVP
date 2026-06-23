@@ -68,37 +68,44 @@ This idea was not selected because it received a lower NUF score. Although it is
 5. Document findings and update project documentation.
 
 
-# Weekly Venture Logbook
 
 ## Lab 03: Customer Problem Discovery
 
 ### What We Completed
-1.
-2.
-3.
+
+1. Defined target respondents.
+2. Prepared customer discovery questions.
+3. Collected and analyzed initial evidence.
 
 ### What We Learned About the Problem
-1.
-2.
-3.
+
+1. Attendance recording consumes valuable class time.
+2. Paper attendance methods are prone to errors.
+3. Users prefer a faster and more accurate solution.
 
 ### What Evidence We Collected
-- Number of respondents/interviews:
-- Evidence file:
-- Key repeated pattern:
+
+- Number of respondents/interviews: 10
+- Evidence file: raw-responses.xlsx
+- Key repeated pattern: Attendance checking is slow and inefficient.
 
 ### What We Changed Based on Evidence
 
+We refined our project focus toward attendance speed and record accuracy.
+
 ### Problems or Difficulties
-1.
-2.
+
+1. Finding available respondents.
+2. Collecting detailed feedback within a limited time.
 
 ### Evidence of Work
-- GitHub repository link:
-- Customer questions file:
-- Raw responses file:
-- Assumption-evidence table:
-- Commit link:
+
+- GitHub repository link: [Insert Link]
+- Customer questions file: docs/customer-questions.md
+- Raw responses file: data/raw-responses.xlsx
+- Assumption-evidence table: docs/assumption-evidence-table.md
+- Commit link: [Insert Link]
 
 ### Plan for Lab 04
-Write how the team will define customer segment, persona, and user stories.
+
+Create customer personas, define user requirements, and write user stories for the Smart Classroom Attendance System.
