@@ -95,3 +95,7 @@ The team has selected the Smart Attendance System as the primary project directi
 ## Current Status
 
 During Lab 2, the team conducted opportunity scanning and identified six potential IT opportunities from real-world observations. These opportunities were evaluated using the NUF (New, Useful, Feasible) scoring method. After comparing the results, the Smart Attendance System received the highest score and was selected as the project's primary venture direction. The team also prepared customer discovery plans and GitHub Issues for the next phase of validation.
+
+## Lab 03 Progress
+
+The team conducted customer discovery activities with students and lecturers to validate attendance-related problems. Findings showed that manual attendance methods are time-consuming, prone to errors, and inconvenient for both students and instructors. Based on the collected evidence, the team will continue developing the Smart Classroom Attendance System as the selected MVP direction.
