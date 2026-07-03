@@ -99,3 +99,27 @@ During Lab 2, the team conducted opportunity scanning and identified six potenti
 ## Lab 03 Progress
 
 The team conducted customer discovery activities with students and lecturers to validate attendance-related problems. Findings showed that manual attendance methods are time-consuming, prone to errors, and inconvenient for both students and instructors. Based on the collected evidence, the team will continue developing the Smart Classroom Attendance System as the selected MVP direction.
+
+
+
+
+## Lab 04 Progress
+
+### Completed Activities
+- Created a user persona for the Smart Classroom Attendance System.
+- Defined functional and non-functional system requirements.
+- Developed user stories based on customer discovery findings.
+- Prioritized MVP features using the MoSCoW method.
+- Designed the user flow and use case diagram for the system.
+
+### Current Status
+
+The team successfully transformed customer discovery results into system requirements and an initial MVP design. The Smart Classroom Attendance System now has a clearly defined target user, prioritized features, and user workflow. These outputs provide a solid foundation for developing the system prototype in the next lab.
+
+### Next Step
+
+During Lab 05, the team will:
+- Design the low-fidelity prototype.
+- Create wireframes for the main interfaces.
+- Build the first clickable prototype.
+- Continue validating the MVP with potential users.
