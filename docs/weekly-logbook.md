@@ -92,3 +92,52 @@ The team confirmed that attendance management remains a valid problem and will c
 
 ### Plan for Next Week
 Begin MVP feature planning and low-fidelity prototype design.
+
+
+
+
+# Weekly Venture Logbook
+
+## Lab 04: User Requirements and MVP Planning
+
+### What We Completed
+
+1. Created a user persona for the Smart Classroom Attendance System.
+2. Defined functional and non-functional system requirements.
+3. Developed user stories based on user needs.
+4. Prioritized MVP features using the MoSCoW method.
+5. Designed the user flow and use case diagram.
+6. Updated the project README and documentation.
+
+### What We Learned
+
+1. Understanding user needs helps define system requirements.
+2. Prioritizing features allows the team to focus on the MVP.
+3. User stories make system development more user-centered.
+
+### Problems or Difficulties
+
+1. Determining which features should be included in the MVP.
+2. Organizing user requirements into functional and non-functional categories.
+
+### Evidence of Work
+
+- GitHub repository link:
+- User Persona document
+- System Requirements document
+- User Stories document
+- MVP Feature List
+- User Flow Diagram
+- Use Case Diagram
+- Commit links
+
+### Decision Made This Week
+
+The team agreed to focus the first MVP on QR-code attendance, attendance records, and lecturer dashboards.
+
+### Plan for Next Week
+
+1. Design low-fidelity wireframes.
+2. Create the clickable prototype.
+3. Validate the prototype with users.
+4. Gather feedback for improvement.
