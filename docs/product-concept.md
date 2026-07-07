@@ -1,28 +1,28 @@
-#Project Name
+# Project Name
 Smart Classroom Attendance System
 
-##Target Users
+## Target Users
 • Students
 • Lecturers
 • Academic Staff
 
-##Problem
+## Problem
 Manual attendance takes time and may contain errors.
 
-##Solution
+## Solution
 A QR-code-based web application for recording attendance automatically.
 
-##Value Proposition
+## Value Proposition
 Reduce attendance time, improve accuracy, and simplify attendance management.
 
-##MVP Scope
+## MVP Scope
 • Login
 • Generate QR Code
 • Scan QR Code
 • Attendance Dashboard
 • Attendance History
 
-##Out of Scope
+## Out of Scope
 • Face Recognition
 • GPS Tracking
 • Mobile App
