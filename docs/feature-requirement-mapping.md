@@ -12,8 +12,8 @@ This document maps the MVP features of the Smart Classroom Attendance System to 
 | ------------------------- | -------------- | ------------- | ----------------------- | ----------- |
 | Student Login             | FR1            | US1           | Login Page              | Must Have   |
 | Lecturer Login            | FR1            | US5           | Login Page              | Must Have   |
-| Generate QR Code          | FR2            | US5           | Lecturer Dashboard      | Must Have   |
-| Scan QR Code              | FR3, FR4       | US2           | Student Dashboard       | Must Have   |
+| Generate Attendance Password | FR2            | US5           | Lecturer Dashboard      | Must Have   |
+| Check Attendance Password    | FR3, FR4       | US2           | Student Dashboard       | Must Have   |
 | Record Attendance         | FR5            | US2           | Attendance Confirmation | Must Have   |
 | Attendance Confirmation   | FR6            | US3           | Confirmation Page       | Must Have   |
 | View Attendance History   | FR7            | US4           | Attendance History      | Should Have |
@@ -31,8 +31,8 @@ This document maps the MVP features of the Smart Classroom Attendance System to 
 
 * Student Login
 * Lecturer Login
-* QR Code Generation
-* QR Code Scanning
+* Attendance Password Generation
+* Attendance Password Scanning
 * Attendance Recording
 * Attendance Confirmation
 
