@@ -7,16 +7,25 @@ Smart Classroom Attendance System
 
 | ID | Requirement |
 |----|-------------|
-| FR1 | The system shall allow students to log in using their student ID and password. |
-| FR2 | The system shall generate a unique QR code for each class session. |
-| FR3 | The system shall allow students to scan the QR code to record attendance. |
-| FR4 | The system shall verify the QR code before recording attendance. |
-| FR5 | The system shall automatically save attendance records in the database. |
-| FR6 | The system shall display a confirmation message after successful attendance submission. |
-| FR7 | The system shall allow lecturers to view attendance records for each class. |
-| FR8 | The system shall allow lecturers to search attendance records by student, course, or date. |
-| FR9 | The system shall allow lecturers to export attendance reports. |
-| FR10 | The system shall allow administrators to manage student, lecturer, and course information. |
+| FR1 | Student can log in using Student ID and Password. |
+
+| FR2 | Student can record attendance after successful login. |
+
+| FR3 | System verifies the student's identity. |
+
+| FR4 | System stores attendance automatically. |
+
+| FR5 | Student can view attendance history. |
+
+| FR6 | Lecturer can view attendance records. |
+
+| FR7 | Lecturer can search attendance records. |
+
+| FR8 | Lecturer can export attendance reports. |
+
+| FR9 | Administrator can manage students. |
+
+| FR10 | Administrator can manage courses. |
 
 ---
 
