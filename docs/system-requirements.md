@@ -7,7 +7,7 @@ Smart Classroom Attendance System
 
 | ID | Requirement |
 |----|-------------|
-| FR1 | Student can log in using Student ID and Password. |
+| FR1 | Student can log in using Student ID and Attendance Password. |
 | FR2 | Student can record attendance after successful login. |
 | FR3 | System verifies the student's identity. |
 | FR4 | System stores attendance automatically. |
@@ -24,14 +24,13 @@ Smart Classroom Attendance System
 
 | ID | Requirement |
 |----|-------------|
-| NFR1 | The system should be easy to use with a simple and intuitive interface. |
-| NFR2 | The system should record attendance within 3 seconds after scanning a QR code. |
-| NFR3 | The system should be accessible on desktop and mobile web browsers. |
-| NFR4 | The system should securely store attendance records and user information. |
-| NFR5 | The system should provide accurate attendance records with minimal errors. |
-| NFR6 | The system should be available during scheduled class hours without interruption. |
-| NFR7 | The system should protect user accounts through secure authentication. |
-| NFR8 | The system should support multiple classrooms and courses simultaneously. |
+| NFR1 | Easy to use. |
+| NFR2 | Login response within 5 seconds. |
+| NFR3 | Secure authentication. |
+| NFR4 | Mobile-friendly. |
+| NFR5 | Reliable attendance storage. |
+| NFR6 | Available during class hours. |
+| NFR7 | Accurate attendance records. |
 
 ---
 
