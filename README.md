@@ -123,3 +123,38 @@ During Lab 05, the team will:
 - Create wireframes for the main interfaces.
 - Build the first clickable prototype.
 - Continue validating the MVP with potential users.
+
+
+## Lab 05 Progress
+
+### Product Design and Wireframing
+
+During Lab 05, the team transformed the system requirements and user stories into a visual prototype for the Smart Classroom Attendance System.
+
+### Completed Tasks
+- Created the Product Concept document.
+- Mapped system features to functional requirements and user stories.
+- Designed six low-fidelity wireframes.
+- Prepared the wireframe specification document.
+- Evaluated the wireframes using a usability checklist.
+- Built a clickable prototype using Figma.
+
+### Current MVP Features
+- Student Login
+- Lecturer Login
+- Attendance Recording
+- Attendance Confirmation
+- Attendance History
+- Lecturer Dashboard
+- Attendance Reports
+
+### Current Status
+
+The Smart Classroom Attendance System now has a complete low-fidelity prototype representing the Minimum Viable Product (MVP). The wireframes demonstrate the main user flow from login to attendance recording and reporting. The team is ready to begin developing a high-fidelity prototype and usability testing in the next lab.
+
+### Next Step
+
+- Improve the prototype design.
+- Conduct usability testing.
+- Collect user feedback.
+- Revise the interface before implementation.
