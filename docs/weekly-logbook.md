@@ -141,3 +141,75 @@ The team agreed to focus the first MVP on QR-code attendance, attendance records
 2. Create the clickable prototype.
 3. Validate the prototype with users.
 4. Gather feedback for improvement.
+
+
+# Weekly Venture Logbook
+
+## Lab 05: Wireframe Design and Prototype
+
+### What We Completed
+
+1. Created the Product Concept document.
+2. Mapped system features to requirements and user stories.
+3. Designed six low-fidelity wireframes.
+4. Created a clickable prototype in Figma.
+5. Evaluated the prototype using a usability checklist.
+6. Updated the GitHub repository.
+
+---
+
+### What We Learned
+
+1. Wireframes help visualize the system before development.
+2. Mapping requirements ensures every feature has a clear purpose.
+3. Simple user interfaces improve usability.
+4. Early prototypes help identify design improvements.
+
+---
+
+### Problems or Difficulties
+
+1. Deciding the best layout for the dashboard.
+2. Maintaining consistent navigation across all screens.
+3. Organizing features within the MVP scope.
+
+---
+
+### Evidence of Work
+
+- GitHub Repository:
+  https://github.com/your-repository
+
+- Product Concept:
+  `/docs/product-concept.md`
+
+- Feature Requirement Mapping:
+  `/docs/feature-requirement-mapping.md`
+
+- Wireframe Specification:
+  `/docs/wireframe-specification.md`
+
+- Wireframes:
+  `/wireframes/`
+
+- Clickable Prototype:
+  Figma Prototype Link
+
+- Commit Link:
+  https://github.com/your-repository/commits/main
+
+---
+
+### Team Decision
+
+The team agreed to use a QR-code-based attendance process as the core MVP because it is the fastest and simplest solution to reduce manual attendance time and improve attendance accuracy.
+
+---
+
+### Plan for Lab 06
+
+1. Design a high-fidelity user interface.
+2. Improve the clickable prototype.
+3. Conduct usability testing with target users.
+4. Collect feedback for interface improvements.
+5. Prepare the system for implementation.
