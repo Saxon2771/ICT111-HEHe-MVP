@@ -45,4 +45,4 @@ This checklist is used to evaluate the usability of the wireframes before develo
 
 ☑ Ready for Clickable Prototype Development
 
-The wireframes satisfy the usability requirements for the MVP and are ready to be converted into a clickable prototype using Figma.
+The wireframes satisfy the usability requirements for the MVP and are ready to be converted into a clickable prototype using Figma or canva.
