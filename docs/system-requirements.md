@@ -8,23 +8,14 @@ Smart Classroom Attendance System
 | ID | Requirement |
 |----|-------------|
 | FR1 | Student can log in using Student ID and Password. |
-
 | FR2 | Student can record attendance after successful login. |
-
 | FR3 | System verifies the student's identity. |
-
 | FR4 | System stores attendance automatically. |
-
 | FR5 | Student can view attendance history. |
-
 | FR6 | Lecturer can view attendance records. |
-
 | FR7 | Lecturer can search attendance records. |
-
 | FR8 | Lecturer can export attendance reports. |
-
 | FR9 | Administrator can manage students. |
-
 | FR10 | Administrator can manage courses. |
 
 ---
