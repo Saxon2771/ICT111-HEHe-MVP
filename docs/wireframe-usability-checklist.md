@@ -11,8 +11,8 @@ This checklist is used to evaluate the usability of the wireframes before develo
 | 1 | Homepage clearly explains the purpose of the system. | ✅ Pass | Includes project title and login button. |
 | 2 | Navigation is simple and consistent across all screens. | ✅ Pass | Menu and buttons are placed consistently. |
 | 3 | Login page is easy to understand. | ✅ Pass | Student ID and Password fields are clearly labeled. |
-| 4 | QR Code Scan feature is easy to locate. | ✅ Pass | Scan button is visible on the dashboard. |
-| 5 | Attendance confirmation message is displayed after successful scan. | ✅ Pass | Users receive immediate feedback. |
+| 4 | Attendance Password feature is easy to locate. | ✅ Pass | Input button is visible on the dashboard. |
+| 5 | Attendance confirmation message is displayed after successful input. | ✅ Pass | Users receive immediate feedback. |
 | 6 | Attendance history is easy to access. | ✅ Pass | Available from the student dashboard. |
 | 7 | Lecturer dashboard displays attendance records clearly. | ✅ Pass | Records are organized in a table. |
 | 8 | Admin dashboard includes user and course management features. | ✅ Pass | Basic management options are available. |
@@ -30,7 +30,7 @@ This checklist is used to evaluate the usability of the wireframes before develo
 
 **Strengths**
 - Simple and user-friendly navigation.
-- QR-code attendance process is easy to understand.
+- Attendance Password process is easy to understand.
 - Screens follow a consistent layout.
 - MVP features are fully represented.
 
