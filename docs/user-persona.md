@@ -36,7 +36,7 @@ Harry is a second-year student who attends multiple classes every week. He uses 
 
 ### Needs
 
-- Fast QR-code attendance.
+- Logging in using Student ID and Password.
 - Instant attendance confirmation.
 - Attendance history.
 
@@ -139,7 +139,7 @@ Qing is an international student who relies heavily on mobile applications for u
 
 - Faster attendance process.
 - Accurate attendance records.
-- Mobile-friendly QR-code attendance.
+- Mobile-friendly logging in using Student ID and Password.
 - Less classroom disruption.
 
 # Evidence from Lab 03
