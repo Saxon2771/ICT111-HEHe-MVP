@@ -7,8 +7,8 @@ Smart Classroom Attendance System
 
 | ID | User Story | Related Requirement(s) | Acceptance Criteria |
 |----|------------|------------------------|---------------------|
-| US1 | As a **student**, I want to log in using my student ID so that I can securely access the attendance system. | FR1 | - Student enters valid credentials.<br>- Login is successful.<br>- Student dashboard is displayed. |
-| US2 | As a **student**, I want to scan a QR code so that my attendance is recorded automatically. | FR3, FR4, FR5 | - QR code is scanned successfully.<br>- System verifies the QR code.<br>- Attendance is saved in the database. |
+| US1 | As a **student**, I want to log in using my Student ID and Password, so that I can record my attendance securely. | FR1 | - Student enters valid credentials.<br>- Login is successful.<br>- Student dashboard is displayed. |
+| US2 | As a **student**, I want to I want to mark my attendance so that my attendance is recorded automatically. | FR3, FR4, FR5 | - QR code is scanned successfully.<br>- System verifies the QR code.<br>- Attendance is saved in the database. |
 | US3 | As a **student**, I want to receive a confirmation message after scanning so that I know my attendance has been recorded successfully. | FR6 | - Confirmation message is displayed.<br>- Student can view the attendance status. |
 | US4 | As a **student**, I want to view my attendance history so that I can monitor my attendance throughout the semester. | FR7 | - Attendance history page loads successfully.<br>- Records are displayed correctly. |
 | US5 | As a **lecturer**, I want to generate a QR code for each class session so that students can record their attendance quickly. | FR2 | - QR code is generated successfully.<br>- QR code is unique for each class session. |
@@ -24,8 +24,6 @@ Smart Classroom Attendance System
 ### Must Have
 - Student Login
 - Lecturer Login
-- QR Code Generation
-- QR Code Scanning
 - Attendance Recording
 - Attendance Dashboard
 
@@ -47,4 +45,4 @@ Smart Classroom Attendance System
 
 ## Summary
 
-These user stories were developed based on customer discovery findings from Lab 03. They focus on solving the main problems identified by students and lecturers, including reducing attendance time, minimizing recording errors, and simplifying attendance management through a QR-code-based Smart Classroom Attendance System.
+These user stories were developed based on customer discovery findings from Lab 03. They focus on solving the main problems identified by students and lecturers, including reducing attendance time, minimizing recording errors, and simplifying attendance management through Smart Classroom Attendance System.
