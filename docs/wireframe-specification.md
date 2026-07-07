@@ -5,61 +5,80 @@ Smart Classroom Attendance System
 
 ## Purpose
 
-This document describes the wireframes for the Smart Classroom Attendance System. Each wireframe represents a key screen in the MVP and is based on the functional requirements and user stories defined in Lab 04.
+This document describes the wireframes for the Smart Classroom Attendance System. The system allows students to log in using their Student ID and Password to record attendance electronically without using paper attendance sheets.
 
 ---
 
 # 1. Homepage
 
 ## Purpose
-Provide users with access to the system through login and introduce the Smart Classroom Attendance System.
+Provide users with access to the Smart Classroom Attendance System.
 
 ## Main Components
-- System logo
-- Project title
-- Welcome message
-- Student Login button
-- Lecturer Login button
-- About System section
+- System Logo
+- Project Title
+- Welcome Message
+- Student Login Button
+- Lecturer Login Button
+- About System Section
 
 ## User Actions
 - Select Student Login
 - Select Lecturer Login
-- View system information
+- Read system information
 
 ---
 
-# 2. Student Attendance (Input Form)
+# 2. Student Login
 
 ## Purpose
-Allow students to record attendance by scanning a QR code.
+Allow students to access the attendance system securely.
 
 ## Main Components
 - Student ID
-- Student Name
-- Course Name
-- QR Code Scanner
-- Submit button
-- Attendance confirmation message
+- Password
+- Login Button
+- Forgot Password Link
+- Error Message
 
 ## User Actions
-- Scan QR code
-- Submit attendance
-- View confirmation message
+- Enter Student ID
+- Enter Password
+- Click Login
 
 ---
 
-# 3. Attendance Record List
+# 3. Student Dashboard
 
 ## Purpose
-Allow lecturers to view and manage attendance records.
+Allow students to record attendance and view attendance information.
 
 ## Main Components
-- Search bar
-- Filter by course
-- Filter by date
-- Attendance table
-- View Details button
+- Student Profile
+- Course Information
+- Mark Attendance Button
+- Attendance Status
+- Attendance History
+- Logout Button
+
+## User Actions
+- Mark Attendance
+- View Attendance History
+- Logout
+
+---
+
+# 4. Attendance Record List
+
+## Purpose
+Allow lecturers to monitor attendance records.
+
+## Main Components
+- Search Bar
+- Filter by Course
+- Filter by Date
+- Attendance Table
+- View Details Button
 
 ## Attendance Table
 
@@ -67,27 +86,9 @@ Allow lecturers to view and manage attendance records.
 |------------|--------------|--------|------|--------|
 
 ## User Actions
-- Search attendance records
-- Filter records
-- View student details
-
----
-
-# 4. Attendance Detail View
-
-## Purpose
-Display complete attendance information for a selected student.
-
-## Main Components
-- Student profile
-- Attendance history
-- Attendance percentage
-- Class information
-- Back button
-
-## User Actions
-- View attendance history
-- Return to record list
+- Search Attendance
+- Filter Records
+- View Student Details
 
 ---
 
@@ -101,35 +102,36 @@ Provide lecturers with an overview of classroom attendance.
 - Present Today
 - Absent Today
 - Attendance Percentage
-- Generate QR Code button
-- View Reports button
+- Attendance Summary
+- View Reports Button
 
 ## User Actions
-- Generate QR code
-- View attendance statistics
-- Open attendance reports
+- View Attendance Summary
+- View Reports
+- Manage Attendance
 
 ---
 
 # 6. Admin Panel
 
 ## Purpose
-Allow administrators to manage users, courses, and attendance records.
+Allow administrators to manage users and attendance records.
 
 ## Main Components
-- Dashboard summary
+- Dashboard Summary
 - Manage Students
 - Manage Lecturers
 - Manage Courses
-- Manage Attendance
-- Export Reports
-- Logout button
+- Manage Attendance Records
+- Export Attendance Reports
+- Logout Button
 
 ## User Actions
-- Add/Edit/Delete student records
-- Add/Edit/Delete lecturer records
-- Manage courses
-- Export attendance reports
+- Add/Edit/Delete Student
+- Add/Edit/Delete Lecturer
+- Manage Courses
+- Update Attendance Records
+- Export Reports
 
 ---
 
@@ -139,40 +141,42 @@ Allow administrators to manage users, courses, and attendance records.
 Homepage
       │
       ▼
-Login
+Student/Lecturer Login
       │
       ▼
-Lecturer Dashboard
+Login Successful?
       │
-      ├──────────────► Generate QR Code
-      │
-      ▼
-Student Scans QR Code
-      │
-      ▼
-Attendance Confirmation
-      │
-      ▼
-Attendance Record List
-      │
-      ▼
-Attendance Detail View
-      │
-      ▼
-Logout
+ ┌────┴────┐
+ │         │
+No        Yes
+ │         │
+ ▼         ▼
+Error   Dashboard
+            │
+            ▼
+     Mark Attendance
+            │
+            ▼
+ Attendance Recorded
+            │
+            ▼
+ View Attendance History
+            │
+            ▼
+         Logout
 ```
 
 ---
 
 # Design Guidelines
 
-- Use a clean and simple layout.
-- Maintain consistent navigation across all pages.
-- Use clear labels and readable fonts.
-- Ensure mobile-friendly responsiveness.
-- Highlight important actions with visible buttons.
-- Display confirmation and error messages clearly.
-- Minimize the number of steps required to record attendance.
+- Simple and clean interface.
+- Consistent navigation.
+- Responsive design for desktop and mobile.
+- Clear labels and buttons.
+- Secure login using Student ID and Password.
+- Display attendance confirmation messages.
+- Easy access to attendance history.
 
 ---
 
@@ -181,14 +185,14 @@ Logout
 | Screen | File Name |
 |---------|-----------|
 | Homepage | `/wireframes/homepage.png` |
-| Student Attendance | `/wireframes/input-form.png` |
+| Student Login | `/wireframes/student-login.png` |
+| Student Dashboard | `/wireframes/student-dashboard.png` |
 | Attendance Record List | `/wireframes/record-list.png` |
-| Attendance Detail View | `/wireframes/detail-view.png` |
-| Lecturer Dashboard | `/wireframes/dashboard.png` |
-| Admin Panel | `/wireframes/admin-view.png` |
+| Lecturer Dashboard | `/wireframes/lecturer-dashboard.png` |
+| Admin Panel | `/wireframes/admin-panel.png` |
 
 ---
 
 # Expected Outcome
 
-The wireframes provide a clear blueprint for the Smart Classroom Attendance System prototype. They ensure that every screen supports the project requirements, user stories, and MVP features before high-fidelity design and implementation begin.
+The wireframes provide a visual blueprint for the Smart Classroom Attendance System. Students log in using their Student ID and Password to record attendance, while lecturers and administrators can efficiently monitor and manage attendance records.
