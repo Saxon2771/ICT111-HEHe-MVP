@@ -10,15 +10,17 @@ Smart Classroom Attendance System
 Manual attendance takes time and may contain errors.
 
 ## Solution
-A QR-code-based web application for recording attendance automatically.
+Students can securely log in using their Student ID and Password to record attendance electronically.
+
+The system reduces attendance errors, saves class time, and allows lecturers to monitor attendance records efficiently.
 
 ## Value Proposition
 Reduce attendance time, improve accuracy, and simplify attendance management.
 
 ## MVP Scope
 • Login
-• Generate QR Code
-• Scan QR Code
+• Generate Attendance Password
+• Check Attendance Password
 • Attendance Dashboard
 • Attendance History
 
