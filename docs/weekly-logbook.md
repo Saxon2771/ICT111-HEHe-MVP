@@ -213,3 +213,81 @@ The team agreed to use a QR-code-based attendance process as the core MVP becaus
 3. Conduct usability testing with target users.
 4. Collect feedback for interface improvements.
 5. Prepare the system for implementation.
+
+
+
+# Weekly Venture Logbook
+
+## Lab 06: Business Model and Technical Design
+
+### What We Completed
+
+1. Created the Business Model Canvas.
+2. Developed the Feature-Value Mapping document.
+3. Designed the Technical Architecture for the system.
+4. Created the Data Structure document.
+5. Designed the System Architecture Diagram.
+6. Created the Data Flow Diagram.
+7. Prepared sample attendance records.
+8. Updated the GitHub repository documentation.
+
+---
+
+### What We Learned
+
+1. A Business Model Canvas helps define how the system delivers value.
+2. Technical architecture provides a clear plan for system implementation.
+3. Data structures ensure attendance information is stored consistently.
+4. Mapping features to user value improves system planning.
+
+---
+
+### Problems or Difficulties
+
+1. Selecting the most suitable architecture for the MVP.
+2. Designing a simple but scalable database structure.
+3. Connecting business requirements with technical implementation.
+
+---
+
+### Evidence of Work
+
+- GitHub Repository:
+  https://github.com/your-repository
+
+- Business Model Canvas:
+  `/docs/business-model-canvas.md`
+
+- Feature-Value Mapping:
+  `/docs/feature-value-mapping.md`
+
+- Technical Architecture:
+  `/docs/technical-architecture.md`
+
+- Data Structure:
+  `/docs/data-structure.md`
+
+- Diagrams:
+  `/diagrams/system-architecture.png`
+  
+  `/diagrams/data-flow-diagram.png`
+
+- Sample Dataset:
+  `/data/sample-records.csv`
+
+---
+
+### Team Decision
+
+The team decided to use a web-based Smart Classroom Attendance System with Student ID and Password authentication. This approach provides a simple, secure, and practical attendance solution that is easy to implement for the MVP.
+
+---
+
+### Plan for Lab 07
+
+1. Develop the login page.
+2. Create the student dashboard.
+3. Implement attendance recording.
+4. Build the lecturer dashboard.
+5. Connect attendance data with the system.
+6. Test the prototype and fix identified issues.
