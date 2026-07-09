@@ -158,3 +158,42 @@ The Smart Classroom Attendance System now has a complete low-fidelity prototype 
 - Conduct usability testing.
 - Collect user feedback.
 - Revise the interface before implementation.
+
+
+
+
+---
+
+# Lab 06 Progress
+
+## Business Model and System Architecture
+
+During Lab 06, the team focused on defining the business model and technical foundation of the Smart Classroom Attendance System. We identified how the system creates value for students, lecturers, and the university while designing the technical architecture and data structure needed for implementation.
+
+## Completed Tasks
+
+- Created the Business Model Canvas.
+- Developed the Feature-Value Mapping.
+- Designed the Technical Architecture.
+- Created the Data Structure documentation.
+- Designed the System Architecture Diagram.
+- Created the Data Flow Diagram.
+- Prepared sample attendance records.
+
+## Current Project Status
+
+The Smart Classroom Attendance System now has a complete business model and technical design. The project includes the system architecture, database structure, and sample data required to support future implementation. All documentation is aligned with the MVP defined in previous labs.
+
+## Technologies
+
+- HTML5
+- CSS3
+- JavaScript
+- Local Storage / Database
+- GitHub
+- Draw.io
+- Figma
+
+## Next Step
+
+In Lab 07, the team will begin implementing the Smart Classroom Attendance System by developing the frontend interface, creating the attendance management functions, and integrating the data structure into the prototype.
