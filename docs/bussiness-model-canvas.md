@@ -1,63 +1,174 @@
 # Business Model Canvas
 
 ## Project Name
+
 **Smart Classroom Attendance System**
 
-## Purpose
-The Business Model Canvas summarizes how the Smart Classroom Attendance System creates, delivers, and captures value for universities by providing a faster, more accurate, and digital attendance management solution.
-
-| Business Model Block | Description |
-|----------------------|-------------|
-| **Customer Segments** | - University Students<br>- Lecturers<br>- Academic Staff<br>- University Administration |
-| **Value Proposition** | - Fast QR-code attendance recording.<br>- Reduces manual attendance errors.<br>- Saves classroom time.<br>- Provides real-time attendance tracking.<br>- Easy attendance report generation. |
-| **Channels** | - University Web Portal<br>- QR Code displayed in classrooms<br>- Campus Wi-Fi Network<br>- Learning Management System (LMS) |
-| **Customer Relationships** | - Self-service attendance for students.<br>- Lecturer dashboard for attendance monitoring.<br>- Administrative support from the university IT department. |
-| **Revenue Streams / Sustainability** | - Internal university-funded project.<br>- Potential annual maintenance budget.<br>- Future licensing for other educational institutions. |
-| **Key Resources** | - Web Application<br>- QR Code Generator<br>- Attendance Database<br>- Cloud Hosting<br>- Development Team |
-| **Key Activities** | - Generate QR codes for each class.<br>- Record student attendance.<br>- Validate attendance records.<br>- Generate attendance reports.<br>- Maintain system security and data integrity. |
-| **Key Partners** | - University Management<br>- Lecturers<br>- IT Department<br>- Students |
-| **Cost Structure** | - Software Development<br>- Web Hosting<br>- Database Maintenance<br>- System Maintenance<br>- Technical Support |
-
 ---
 
-## Value Proposition Summary
+# 1. Customer Segments
 
-The Smart Classroom Attendance System improves classroom efficiency by replacing traditional paper-based attendance with a secure QR-code-based attendance system. It reduces attendance time, minimizes human errors, provides real-time attendance records, and enables lecturers to manage attendance more efficiently.
-
----
-
-## Target Users
-
-### Primary Users
-- University Students
+### Primary Customers
+- University students
 - Lecturers
+- Academic staff
 
-### Secondary Users
-- Academic Staff
-- University Administrators
-
----
-
-## Competitive Advantage
-
-- QR-code attendance is faster than manual attendance.
-- Automatic attendance recording reduces errors.
-- Real-time attendance dashboard for lecturers.
-- Digital attendance history for students.
-- Easy report generation for academic administration.
+### Secondary Customers
+- University administrators
+- Faculty management
+- Department coordinators
 
 ---
 
-## Future Opportunities
+# 2. Value Propositions
 
-- Mobile application integration.
-- Face recognition attendance.
-- GPS-based attendance verification.
-- Push notifications for attendance reminders.
-- Integration with university learning management systems (LMS).
+The Smart Classroom Attendance System provides a simple and secure way to record and manage classroom attendance using Student ID and Password authentication.
+
+### Benefits for Students
+- Fast attendance recording
+- Easy access to attendance history
+- Reduced attendance errors
+- Convenient web-based access
+
+### Benefits for Lecturers
+- Automatic attendance records
+- Easy attendance monitoring
+- Reduced paperwork
+- Faster attendance checking
+
+### Benefits for Universities
+- Improved attendance accuracy
+- Better record management
+- Reduced administrative workload
+- Digital attendance reports
 
 ---
 
-## Conclusion
+# 3. Channels
 
-The Business Model Canvas demonstrates how the Smart Classroom Attendance System creates value by improving attendance management through digital automation. The proposed solution benefits students, lecturers, and university administrators while providing a scalable foundation for future enhancements.
+The system will be delivered through:
+
+- University web portal
+- Desktop web browsers
+- Mobile web browsers
+- Campus computer laboratories
+- University network
+
+---
+
+# 4. Customer Relationships
+
+The system maintains customer relationships through:
+
+- Self-service student portal
+- Lecturer dashboard
+- Administrator dashboard
+- Online user guides
+- Technical support from the IT department
+
+---
+
+# 5. Revenue Streams
+
+Since this project is developed as a university MVP, there is no direct revenue generation.
+
+Possible future revenue opportunities include:
+
+- Annual software licensing
+- University subscription plans
+- Custom system development
+- Maintenance and technical support services
+
+---
+
+# 6. Key Resources
+
+The project requires:
+
+- Development team
+- GitHub repository
+- Visual Studio Code
+- HTML, CSS, JavaScript
+- Browser Local Storage
+- Figma
+- Draw.io
+- University computers
+- Internet connection
+
+---
+
+# 7. Key Activities
+
+Major project activities include:
+
+- System planning
+- Requirement analysis
+- UI/UX design
+- Wireframe development
+- Frontend programming
+- Attendance module development
+- System testing
+- Documentation
+- GitHub repository management
+
+---
+
+# 8. Key Partners
+
+The project depends on cooperation with:
+
+- University
+- Lecturers
+- Students
+- Academic Office
+- Information Technology Department
+- Project Supervisor
+- GitHub
+- Figma
+- Draw.io
+
+---
+
+# 9. Cost Structure
+
+The MVP has very low development costs.
+
+### Development Costs
+
+- Internet connection
+- Personal computers
+- Software development tools
+- Team collaboration
+- Testing time
+- Documentation preparation
+
+### Future Operational Costs
+
+- Cloud hosting
+- Database server
+- Domain name
+- System maintenance
+- Security updates
+- Technical support
+
+---
+
+# Business Model Canvas Summary
+
+| Building Block | Description |
+|----------------|-------------|
+| Customer Segments | Students, Lecturers, Academic Staff, University Administrators |
+| Value Proposition | Simple, secure, and accurate digital attendance management |
+| Channels | University website, Web browsers, Campus network |
+| Customer Relationships | Self-service portal, Lecturer dashboard, Technical support |
+| Revenue Streams | University licensing, Subscription, Maintenance services (future) |
+| Key Resources | Development team, GitHub, VS Code, HTML, CSS, JavaScript, Figma |
+| Key Activities | Planning, Design, Development, Testing, Documentation |
+| Key Partners | University, Lecturers, Students, IT Department, GitHub, Figma |
+| Cost Structure | Development tools, Internet, Hosting, Maintenance |
+
+---
+
+# Conclusion
+
+The Business Model Canvas demonstrates how the Smart Classroom Attendance System creates value for students, lecturers, and universities by replacing manual attendance with a secure digital solution. Although this project is developed as a Minimum Viable Product (MVP) for academic purposes, it has the potential to evolve into a scalable attendance management system that can be adopted by educational institutions.
