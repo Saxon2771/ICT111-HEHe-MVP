@@ -12,8 +12,8 @@ Develop a simple web-based attendance system that enables students to record att
 |----------|---------|-------------|--------|
 | **Must Have** | Student Login | Students log in using their university account. | Required to identify each student. |
 | **Must Have** | Lecturer Login | Lecturers securely access the system. | Required to manage attendance. |
-| **Must Have** | QR Code Generation | Lecturer generates a unique QR code for each class session. | Core attendance feature. |
-| **Must Have** | QR Code Attendance | Students scan the QR code to mark attendance. | Main system functionality. |
+| **Must Have** | Password Generation | Lecturer generates a unique password for each class session. | Core attendance feature. |
+| **Must Have** | Password Attendance | Students input password to mark attendance. | Main system functionality. |
 | **Must Have** | Attendance Database | Store attendance records securely. | Essential for record keeping. |
 | **Must Have** | Lecturer Dashboard | View attendance records for each class. | Required to monitor attendance. |
 | **Should Have** | Attendance History | Students can view their attendance records. | Helps students track attendance. |
@@ -33,8 +33,8 @@ Develop a simple web-based attendance system that enables students to record att
 The first version of the Smart Classroom Attendance System will focus on the core attendance process:
 
 1. User Login
-2. QR Code Generation
-3. QR Code Scanning
+2. Password Generation
+3. Input Password
 4. Automatic Attendance Recording
 5. Attendance Dashboard
 6. Attendance History
