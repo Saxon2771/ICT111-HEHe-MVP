@@ -197,3 +197,35 @@ The Smart Classroom Attendance System now has a complete business model and tech
 ## Next Step
 
 In Lab 07, the team will begin implementing the Smart Classroom Attendance System by developing the frontend interface, creating the attendance management functions, and integrating the data structure into the prototype.
+
+
+
+---
+
+# Lab 07 Progress
+
+## Completed Tasks
+
+- Identified critical assumptions for the Smart Classroom Attendance System.
+- Prepared the MVP experiment plan.
+- Defined measurable success metrics.
+- Created the experiment testing script.
+- Designed the participant feedback form.
+- Conducted prototype usability testing.
+- Recorded experiment results and analyzed user feedback.
+
+## MVP Experiment Summary
+
+The Smart Classroom Attendance System was evaluated using a usability experiment involving students and a lecturer. Participants successfully logged into the system using their Student ID and Password, recorded attendance, viewed attendance history, and logged out. Most participants completed all tasks without assistance and reported that the system was easy to use.
+
+## Key Findings
+
+- High login success rate.
+- Attendance recording was completed successfully by all participants.
+- Average task completion time was less than one minute.
+- Users found the interface simple and easy to navigate.
+- Positive feedback supports further development of the prototype.
+
+## Next Step
+
+The next phase is to improve the prototype based on user feedback and begin implementing additional features for the final Smart Classroom Attendance System.
