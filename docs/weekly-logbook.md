@@ -291,3 +291,76 @@ The team decided to use a web-based Smart Classroom Attendance System with Stude
 4. Build the lecturer dashboard.
 5. Connect attendance data with the system.
 6. Test the prototype and fix identified issues.
+
+
+
+# Weekly Venture Logbook
+
+## Lab 07: MVP Experiment Planning and Validation
+
+### What We Completed
+
+1. Identified critical assumptions for the Smart Classroom Attendance System.
+2. Prepared the MVP experiment plan.
+3. Defined success metrics for evaluating the prototype.
+4. Created the usability testing script.
+5. Designed the participant feedback form.
+6. Conducted prototype usability testing.
+7. Recorded and analyzed experiment results.
+8. Updated project documentation and README.
+
+---
+
+### What We Learned
+
+1. MVP experiments help validate project ideas before full development.
+2. User feedback is valuable for improving system usability.
+3. Measuring success with clear metrics helps evaluate the effectiveness of the prototype.
+
+---
+
+### Problems or Difficulties
+
+1. Recruiting participants for usability testing.
+2. Some participants required clarification during the first login.
+3. Minor interface improvements were identified during testing.
+
+---
+
+### Evidence of Work
+
+**GitHub Repository Link**
+
+- https://github.com/your-team/Smart-Classroom-Attendance-System
+
+**Files Created**
+
+- docs/critical-assumptions.md
+- docs/mvp-experiment-plan.md
+- docs/success-metrics.md
+- docs/experiment-script.md
+- docs/feedback-form.md
+- data/experiment-results.csv
+
+**Prototype**
+
+- Student Login
+- Student Dashboard
+- Attendance History
+- Lecturer Dashboard
+
+---
+
+### Decision Made This Week
+
+The team confirmed that the Smart Classroom Attendance System is usable and meets the primary needs of students and lecturers. Feedback from usability testing will be used to improve the interface before developing the final prototype.
+
+---
+
+### Plan for Next Week (Lab 08)
+
+1. Improve the prototype based on user feedback.
+2. Enhance the user interface and navigation.
+3. Implement additional system features.
+4. Perform functional testing.
+5. Prepare the prototype for the next laboratory assessment.
