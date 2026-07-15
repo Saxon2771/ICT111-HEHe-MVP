@@ -1,0 +1,11 @@
+TesterID,UserType,LoginSuccess,AttendanceRecorded,CompletionTime(seconds),ErrorsEncountered,SatisfactionScore(1-5),WouldRecommend,Comments
+T001,Student,Yes,Yes,42,0,5,Yes,Easy to use and attendance was recorded quickly.
+T002,Student,Yes,Yes,48,0,4,Yes,Login process was simple.
+T003,Student,Yes,Yes,55,1,4,Yes,Initially entered incorrect password but recovered easily.
+T004,Student,Yes,Yes,39,0,5,Yes,Interface is clear and user-friendly.
+T005,Student,Yes,Yes,61,1,4,Yes,Took slightly longer to find the attendance button.
+T006,Student,Yes,Yes,44,0,5,Yes,Very convenient compared to paper attendance.
+T007,Student,Yes,Yes,50,0,4,Yes,Would like a password reset feature.
+T008,Student,Yes,Yes,46,0,5,Yes,Attendance history is useful.
+T009,Lecturer,Yes,N/A,70,0,5,Yes,Dashboard makes attendance monitoring easier.
+T010,Administrator,Yes,N/A,82,0,5,Yes,System management functions are straightforward.
