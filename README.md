@@ -229,3 +229,19 @@ The Smart Classroom Attendance System was evaluated using a usability experiment
 ## Next Step
 
 The next phase is to improve the prototype based on user feedback and begin implementing additional features for the final Smart Classroom Attendance System.
+
+## Lab 08 – Validation & Analytics
+
+In this lab, we validated our MVP using real user data.
+
+### Key Results
+- Task Success Rate: 80%
+- Average Feedback Score: 4.1
+- Interest Level: 4.2
+
+### Key Issues Identified
+- Login reliability issues
+- Navigation confusion
+
+### Decision
+We decided to **revise** the MVP before continuing development.
