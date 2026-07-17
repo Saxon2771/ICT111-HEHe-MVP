@@ -1,0 +1,11 @@
+StudentID,TaskCompleted,FeedbackScore,InterestLevel,ConfusionPoint,RequirementAffected
+S01,1,4,5,Login delay,FR1
+S02,1,5,4,None,None
+S03,0,3,3,Password error,FR1
+S04,1,4,4,Navigation unclear,FR2
+S05,1,5,5,None,None
+S06,0,2,3,Login failure,FR1
+S07,1,4,4,Dashboard confusion,FR3
+S08,1,5,5,None,None
+S09,1,4,4,Navigation unclear,FR2
+S10,1,5,5,None,None
