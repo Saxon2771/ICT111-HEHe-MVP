@@ -364,3 +364,27 @@ The team confirmed that the Smart Classroom Attendance System is usable and meet
 3. Implement additional system features.
 4. Perform functional testing.
 5. Prepare the prototype for the next laboratory assessment.
+
+# Weekly Logbook – Lab 08
+
+## Week Summary
+Focused on validating system using real user data and analytics.
+
+---
+
+## Issues Faced
+- Limited number of test users
+- Minor data inconsistencies
+
+---
+
+## Actions Taken
+- Cleaned dataset
+- Standardized responses
+
+---
+
+## Next Steps
+- Improve login system
+- Simplify navigation UI
+- Conduct second validation test
