@@ -388,3 +388,32 @@ Focused on validating system using real user data and analytics.
 - Improve login system
 - Simplify navigation UI
 - Conduct second validation test
+
+## Week 09 - Responsible IT Check
+
+### What We Completed
+- Reviewed system requirements
+- Identified data collection points
+- Created risk register
+- Checked privacy, ethical, and security aspects
+
+### What We Learned
+- Importance of minimizing data collection
+- Risks in authentication systems
+- Need for proper access control
+
+### Problems Faced
+- Identifying all possible risks
+- Understanding privacy requirements
+
+### Evidence of Work
+- Created documentation files
+- Updated GitHub repository
+
+### Decision Made
+- Removed unnecessary data fields
+- Added basic security measures
+
+### Plan for Next Week
+- Continue MVP implementation
+- Improve system security features
