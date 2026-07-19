@@ -245,3 +245,29 @@ In this lab, we validated our MVP using real user data.
 
 ### Decision
 We decided to **revise** the MVP before continuing development.
+
+## Lab 09 - Responsible IT Check
+
+This lab focuses on reviewing the system from legal, ethical, privacy, and security perspectives.
+
+### Completed Tasks
+- Data inventory and classification
+- Privacy and data protection review
+- Ethical risk identification
+- Security risk assessment
+- Risk register creation
+- Requirements update
+
+### Key Improvements
+- Removed unnecessary data fields
+- Added basic authentication security
+- Defined user roles and access control
+
+### Files Added
+- /docs/legal-ethical-checklist.md
+- /docs/privacy-and-data-protection.md
+- /docs/ip-and-third-party-assets.md
+- /docs/security-risk-check.md
+- /docs/risk-register.md
+- /docs/updated-requirements-note.md
+- /docs/weekly-logbook.md
