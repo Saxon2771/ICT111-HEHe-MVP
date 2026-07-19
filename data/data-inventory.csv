@@ -1,0 +1,5 @@
+Field Name,Data Type,Classification,Used In,Notes
+Student ID,Personal,Necessary,Login,Used for authentication
+Password,Sensitive,Necessary,Login,Stored securely
+Attendance Record,Internal,Necessary,Attendance tracking,Core system data
+Name,Personal,Optional,Display,Used for UI display only
