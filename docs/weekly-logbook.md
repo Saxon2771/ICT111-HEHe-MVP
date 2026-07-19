@@ -417,3 +417,18 @@ Focused on validating system using real user data and analytics.
 ### Plan for Next Week
 - Continue MVP implementation
 - Improve system security features
+
+### Additional Work (Data Files)
+
+- Created `/data/data-inventory.csv` to list and classify all data collected in the system
+- Created `/data/risk-register.csv` to document identified risks with mitigation strategies
+- Created `/data/third-party-assets-register.csv` to record external assets and licenses
+
+### What We Learned (Updated)
+- Importance of organizing data in structured format (CSV)
+- Better understanding of system risks and data handling
+- Improved documentation for transparency and tracking
+
+### Evidence of Work (Updated)
+- Uploaded CSV files to GitHub repository
+- Linked data files with documentation in /docs/
