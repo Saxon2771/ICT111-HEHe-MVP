@@ -271,3 +271,13 @@ This lab focuses on reviewing the system from legal, ethical, privacy, and secur
 - /docs/risk-register.md
 - /docs/updated-requirements-note.md
 - /docs/weekly-logbook.md
+
+### Data Files Added
+
+The following CSV files were created to support responsible IT design:
+
+- `/data/data-inventory.csv` – lists all data fields used in the system and their classification
+- `/data/risk-register.csv` – contains identified risks, severity, likelihood, and mitigation
+- `/data/third-party-assets-register.csv` – records external assets and their licenses
+
+These files improve transparency, data organization, and risk management in the project.
