@@ -86,9 +86,9 @@ The prototype will use **HTML, CSS, JavaScript, and Browser Local Storage** with
 
 | Team Member | Role | Responsibilities |
 |-------------|------|------------------|
-| Student A | Product Lead | Review requirements, documentation, and testing |
-| Student B | Technical Lead | Develop HTML, CSS, JavaScript, and Local Storage functions |
-| Student C | UX/UI & Documentation Lead | Design interface, prepare screenshots, update documentation |
+| Htut Myat Moe | Product Lead | Review requirements, documentation, and testing |
+| Hein Htet | Technical Lead | Develop HTML, CSS, JavaScript, and Local Storage functions |
+| Sai Kaung Htet Kyaw | UX/UI & Documentation Lead | Design interface, prepare screenshots, update documentation |
 
 ---
 
@@ -125,15 +125,15 @@ screenshots/
 
 | Task | Assigned To | Status |
 |------|-------------|--------|
-| Create project structure | Student B | Planned |
-| Build homepage | Student C | Planned |
-| Develop login page | Student B | Planned |
-| Develop attendance form | Student B | Planned |
-| Create attendance history | Student B | Planned |
-| Create lecturer dashboard | Student A | Planned |
-| Create admin dashboard | Student A | Planned |
+| Create project structure | Htut Myat Moe | Planned |
+| Build homepage | Sai Kaung Htet Kyaw | Planned |
+| Develop login page | Sai Kaung Htet Kyaw | Planned |
+| Develop attendance form | Hein Htet | Planned |
+| Create attendance history | Hein Htet | Planned |
+| Create lecturer dashboard | Htut Myat Moe | Planned |
+| Create admin dashboard | Htut Myat Moe | Planned |
 | Perform testing | All Members | Planned |
-| Update documentation | Student C | Planned |
+| Update documentation | Sai Kaung Htet Kyaw | Planned |
 
 ---
 
