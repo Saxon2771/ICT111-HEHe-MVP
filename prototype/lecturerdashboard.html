@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lecturer Dashboard</title>
+  <!-- <link rel="stylesheet" href="lecturer.css"> -->
+   <style> 
+    * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  background: #f4f7fb;
+  color: #333;
+}
+
+.dashboard {
+  display: flex;
+  min-height: 100vh;
+}
+
+.sidebar {
+  width: 240px;
+  background: #111827;
+  color: white;
+  padding: 25px 20px;
+}
+
+.sidebar h2 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.sidebar ul {
+  list-style: none;
+}
+
+.sidebar li {
+  padding: 14px 18px;
+  margin-bottom: 10px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.sidebar li:hover,
+.sidebar .active {
+  background: #2563eb;
+}
+
+.main-content {
+  flex: 1;
+  padding: 30px;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+header h1 {
+  color: #111827;
+}
+
+header p {
+  color: #666;
+  margin-top: 5px;
+}
+
+header button,
+.password-box button {
+  background: #2563eb;
+  color: white;
+  border: none;
+  padding: 12px 22px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+header button:hover,
+.password-box button:hover {
+  background: #1d4ed8;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+  margin-bottom: 30px;
+}
+
+.card {
+  background: white;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+}
+
+.card h3 {
+  color: #666;
+  margin-bottom: 12px;
+}
+
+.card p {
+  font-size: 30px;
+  font-weight: bold;
+  color: #2563eb;
+}
+
+.content-grid {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 20px;
+}
+
+.password-box,
+.table-box {
+  background: white;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+}
+
+.password-box h2,
+.table-box h2 {
+  color: #111827;
+  margin-bottom: 15px;
+}
+
+.password-box p {
+  color: #666;
+  margin-bottom: 20px;
+}
+
+.password-display {
+  background: #eff6ff;
+  border: 2px dashed #2563eb;
+  color: #1e3a8a;
+  font-size: 34px;
+  font-weight: bold;
+  text-align: center;
+  padding: 25px;
+  border-radius: 12px;
+  margin-bottom: 20px;
+  letter-spacing: 5px;
+}
+
+.note {
+  font-size: 14px;
+  margin-top: 15px;
+  color: #777;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 14px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+th {
+  background: #eff6ff;
+  color: #1e3a8a;
+}
+
+.active-status {
+  background: #dcfce7;
+  color: #15803d;
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-weight: bold;
+}
+
+.warning-status {
+  background: #fee2e2;
+  color: #b91c1c;
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-weight: bold;
+}
+
+@media (max-width: 900px) {
+  .dashboard {
+    flex-direction: column;
+  }
+
+  .sidebar {
+    width: 100%;
+  }
+
+  .cards {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .content-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 500px) {
+  header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 15px;
+  }
+
+  .cards {
+    grid-template-columns: 1fr;
+  }
+
+  table {
+    font-size: 14px;
+  }
+}
+   </style>
+</head>
+<body>
+
+<div class="dashboard">
+
+  <aside class="sidebar">
+    <h2>Attendify</h2>
+    <ul>
+      <li class="active">Dashboard</li>
+      <li>My Classes</li>
+      <li>Generate Password</li>
+      <li>Attendance Records</li>
+      <li>Reports</li>
+      <li>Logout</li>
+    </ul>
+  </aside>
+
+  <main class="main-content">
+
+    <header>
+      <div>
+        <h1>Lecturer Dashboard</h1>
+        <p>Welcome, Dr. John Smith</p>
+      </div>
+      <button>Start Class</button>
+    </header>
+
+    <section class="cards">
+      <div class="card">
+        <h3>Total Classes</h3>
+        <p>18</p>
+      </div>
+
+      <div class="card">
+        <h3>Students</h3>
+        <p>120</p>
+      </div>
+
+      <div class="card">
+        <h3>Today's Attendance</h3>
+        <p>86%</p>
+      </div>
+
+      <div class="card">
+        <h3>Active Class</h3>
+        <p>Web Dev</p>
+      </div>
+    </section>
+
+    <section class="content-grid">
+
+      <div class="password-box">
+        <h2>One-Time Attendance Password</h2>
+        <p>Generate a unique password for students to mark attendance.</p>
+
+        <div class="password-display" id="password">------</div>
+
+        <button onclick="generatePassword()">Generate Password</button>
+
+        <p class="note">
+          This password should be shared only during the live class.
+        </p>
+      </div>
+
+      <div class="table-box">
+        <h2>Recent Classes</h2>
+
+        <table>
+          <thead>
+            <tr>
+              <th>Class</th>
+              <th>Date</th>
+              <th>Attendance</th>
+              <th>Status</th>
+            </tr>
+          </thead>
+
+          <tbody>
+            <tr>
+              <td>Web Development</td>
+              <td>09 Jul 2026</td>
+              <td>86%</td>
+              <td><span class="active-status">Completed</span></td>
+            </tr>
+
+            <tr>
+              <td>Database Systems</td>
+              <td>08 Jul 2026</td>
+              <td>91%</td>
+              <td><span class="active-status">Completed</span></td>
+            </tr>
+
+            <tr>
+              <td>Software Engineering</td>
+              <td>07 Jul 2026</td>
+              <td>78%</td>
+              <td><span class="warning-status">Low</span></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+    </section>
+
+  </main>
+
+</div>
+
+<script>
+
+  const user=JSON.parse(localStorage.getItem("currentUser"));
+
+  if(user==null){
+
+  window.location="login.html";
+
+  }
+
+  document.getElementById("studentName").innerHTML=user.name;
+
+  function generatePassword() {
+    const characters = "ABCDEFGHJKLMNPQRSTUVWXYZ23456789";
+    let password = "";
+
+    for (let i = 0; i < 6; i++) {
+      password += characters.charAt(Math.floor(Math.random() * characters.length));
+    }
+
+    document.getElementById("password").innerText = password;
+  }
+</script>
+
+</body>
+</html>
