@@ -281,3 +281,146 @@ The following CSV files were created to support responsible IT design:
 - `/data/third-party-assets-register.csv` – records external assets and their licenses
 
 These files improve transparency, data organization, and risk management in the project.
+
+
+# Smart Classroom Attendance System
+
+## Lab 10 - Project Overview
+
+The Smart Classroom Attendance System is a web-based prototype developed as part of the ICT11 Introduction to Information Technology course. The system provides a simple and efficient way for students, lecturers, and administrators to manage classroom attendance using Student ID and Password authentication.
+
+The prototype is built using HTML, CSS, and JavaScript with Browser Local Storage as the temporary database.
+
+---
+
+# Team Members
+
+| Name | Role |
+|------|------|
+| Harry | Product Lead |
+| William | Technical Lead |
+| Qing | UI/UX and Documentation |
+
+---
+
+# Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Browser Local Storage
+
+---
+
+# Project Structure
+
+```text
+Smart-Classroom-Attendance-System/
+│
+├── prototype/
+│   ├── smartclassattendance.html
+│   ├── login.html
+│   ├── student-dashboard.html
+│   ├── lecturer-dashboard.html
+│   ├── attendance.html
+│   ├── admin-dashboard.html
+│   └── js/
+│       ├── database.js
+│       ├── login.js
+│       ├── attendance.js
+│       └── logout.js
+│
+├── docs/
+│   ├── implementation-plan.md
+│   ├── feature-implementation-status.md
+│   └── weekly-logbook.md
+│
+├── screenshots/
+│
+├── data/
+│   └── sample-records.csv
+│
+└── README.md
+```
+
+---
+
+# Features
+
+- Student Login
+- Lecturer Login
+- Admin Login
+- Student Dashboard
+- Lecturer Dashboard
+- Admin Dashboard
+- Attendance Recording
+- Attendance History
+- Attendance Report
+- Local Storage Database
+- Role-Based Login
+- Logout
+
+---
+
+# MVP Features
+
+- User Authentication
+- Attendance Recording
+- Attendance History
+- Dashboard Interfaces
+- Attendance Management
+
+---
+
+# Current Status
+
+| Feature | Status |
+|---------|--------|
+| Login System | ✅ Complete |
+| Student Dashboard | ✅ Complete |
+| Lecturer Dashboard | ✅ Complete |
+| Admin Dashboard | ✅ Complete |
+| Attendance Recording | ✅ Complete |
+| Attendance History | ✅ Complete |
+| Local Storage | ✅ Complete |
+
+---
+
+# Future Improvements
+
+- MySQL Database
+- Firebase Authentication
+- QR Code Attendance
+- Face Recognition
+- Email Notifications
+- Mobile Application
+- Cloud Storage
+
+---
+
+# How to Run
+
+1. Download the project.
+2. Open the project folder.
+3. Open **smartclassattendance.html** in a web browser.
+4. Click **Login**.
+5. Log in using one of the sample accounts.
+6. Test attendance recording and dashboards.
+
+---
+
+# Sample Login Accounts
+
+| Role | ID | Password |
+|------|----|----------|
+| Student | 65001 | 123456 |
+| Student | 65002 | 123456 |
+| Student | 65003 | 123456 |
+| Lecturer | L001 | lecturer123 |
+| Admin | A001 | admin123 |
+
+---
+
+# Conclusion
+
+The Smart Classroom Attendance System successfully demonstrates the core functionality required for an attendance management system using front-end technologies. The project provides a solid foundation for future enhancements involving databases, backend services, and cloud deployment.
