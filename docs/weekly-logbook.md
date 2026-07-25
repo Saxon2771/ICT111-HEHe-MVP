@@ -432,3 +432,86 @@ Focused on validating system using real user data and analytics.
 ### Evidence of Work (Updated)
 - Uploaded CSV files to GitHub repository
 - Linked data files with documentation in /docs/
+
+
+## Lab
+Lab 10 – Prototype Development
+
+## Project
+Smart Classroom Attendance System
+
+---
+
+## Objectives
+
+- Develop a working attendance system prototype.
+- Connect webpages using JavaScript.
+- Implement login authentication.
+- Store user information using Local Storage.
+- Record attendance.
+- Complete project documentation.
+
+---
+
+## Activities Completed
+
+| Activity | Status |
+|----------|--------|
+| Homepage completed | ✅ |
+| Login page completed | ✅ |
+| Student dashboard completed | ✅ |
+| Lecturer dashboard completed | ✅ |
+| Admin dashboard completed | ✅ |
+| Attendance page completed | ✅ |
+| Local Storage database created | ✅ |
+| Login authentication implemented | ✅ |
+| Attendance recording implemented | ✅ |
+| Logout function completed | ✅ |
+| Documentation updated | ✅ |
+
+---
+
+## Challenges Encountered
+
+- Linking JavaScript files correctly.
+- Connecting login authentication with dashboards.
+- Displaying user information dynamically.
+- Managing attendance records using Local Storage.
+
+---
+
+## Solutions
+
+- Organized JavaScript into separate files.
+- Implemented role-based login authentication.
+- Stored login sessions using `currentUser`.
+- Used Local Storage to save attendance records.
+- Tested navigation between all pages.
+
+---
+
+## Skills Learned
+
+- HTML page linking
+- CSS layout design
+- JavaScript DOM manipulation
+- Browser Local Storage
+- Login authentication
+- Attendance management
+- GitHub documentation
+
+---
+
+## Reflection
+
+This week focused on building the Smart Classroom Attendance System prototype. The project now supports Student, Lecturer, and Admin roles with secure login, attendance recording, and dashboard interfaces. Browser Local Storage successfully simulates a database, allowing the system to function without a backend server. This lab strengthened practical skills in front-end web development and project documentation.
+
+---
+
+## Next Week Plan
+
+- Improve UI and responsiveness.
+- Add search and filtering.
+- Enhance attendance reports.
+- Continue testing and debugging.
+- Prepare for the final project demonstration.
