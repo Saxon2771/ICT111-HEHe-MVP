@@ -282,9 +282,6 @@ The following CSV files were created to support responsible IT design:
 
 These files improve transparency, data organization, and risk management in the project.
 
-
-# Smart Classroom Attendance System
-
 ## Lab 10 - Project Overview
 
 The Smart Classroom Attendance System is a web-based prototype developed as part of the ICT11 Introduction to Information Technology course. The system provides a simple and efficient way for students, lecturers, and administrators to manage classroom attendance using Student ID and Password authentication.
