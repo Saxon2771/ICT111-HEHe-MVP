@@ -515,3 +515,90 @@ This week focused on building the Smart Classroom Attendance System prototype. T
 - Enhance attendance reports.
 - Continue testing and debugging.
 - Prepare for the final project demonstration.
+
+
+# Lab 11 Weekly Logbook
+
+## Project
+
+Smart Classroom Attendance System
+
+## Week
+
+Lab 11 – MVP Implementation Sprint 2 and Startup Metrics
+
+---
+
+## Objectives
+
+- Review the Lab 10 prototype.
+- Improve attendance data handling.
+- Add search and filtering.
+- Add attendance status updates.
+- Add startup and product metrics.
+- Test the complete prototype flow.
+- Update GitHub documentation and screenshots.
+
+---
+
+## Activities Completed
+
+| Activity | Owner | Status |
+|---|---|---|
+| Reviewed Lab 10 prototype requirements | Harry | Completed |
+| Improved Local Storage attendance records | William | Completed |
+| Added attendance search and filtering | Qing | Completed |
+| Added attendance status update | William | Completed |
+| Added dashboard metrics | Qing | Completed |
+| Conducted prototype testing | Harry | Completed |
+| Captured updated screenshots | Qing | Completed |
+| Updated documentation and README | All Members | Completed |
+
+---
+
+## Challenges
+
+- Preventing duplicate attendance submissions.
+- Displaying saved records after refreshing the browser.
+- Connecting metrics to Local Storage data.
+- Updating attendance status correctly.
+- Ensuring JavaScript files were linked to the correct HTML pages.
+
+---
+
+## Solutions
+
+- Added duplicate record validation.
+- Used JSON to save and retrieve records from Local Storage.
+- Created reusable metric calculation functions.
+- Added search and filtering functions.
+- Tested each page and user role separately.
+
+---
+
+## Skills Learned
+
+- JavaScript Local Storage
+- JSON data handling
+- DOM manipulation
+- Search and filtering
+- Dashboard metrics
+- Prototype testing
+- GitHub issue tracking
+- Team contribution documentation
+
+---
+
+## Reflection
+
+Lab 11 improved the Smart Classroom Attendance System from a basic visual prototype into a more functional and measurable system. Attendance records can now be added, displayed, searched, filtered, and updated. The dashboard metrics provide useful information about system usage and attendance performance.
+
+---
+
+## Next Plan
+
+- Improve mobile responsiveness.
+- Add report export.
+- Improve attendance password validation.
+- Strengthen admin user management.
+- Prepare the system for final evaluation.
