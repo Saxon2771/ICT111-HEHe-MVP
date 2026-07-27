@@ -602,3 +602,8 @@ Lab 11 improved the Smart Classroom Attendance System from a basic visual protot
 - Improve attendance password validation.
 - Strengthen admin user management.
 - Prepare the system for final evaluation.
+
+
+# Lab 12 Weekly Logbook
+
+The Smart Classroom Attendance System helps students and lecturers record, monitor, and manage attendance more quickly and accurately.
