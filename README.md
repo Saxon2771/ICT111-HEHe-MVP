@@ -470,3 +470,245 @@ The current prototype displays:
 ### Lab 11 Screenshots
 
 Screenshots are available in the `/screenshots/` folder and show the updated homepage, attendance form, record list, dashboards, filters, admin view, and product metrics.
+
+
+# Smart Classroom Attendance System
+
+## ICT111 Semester Project
+
+A browser-based Smart Classroom Attendance System developed for the ICT111 Introduction to Information Technology course.
+
+---
+
+# Project Overview
+
+The Smart Classroom Attendance System simplifies classroom attendance management through a web application that supports different user roles.
+
+Students can submit attendance and review attendance history, lecturers can monitor classroom records, and administrators can manage attendance information through dedicated dashboards.
+
+The project is built entirely using front-end technologies and Browser Local Storage.
+
+---
+
+# Features
+
+## Student
+
+- Login using Student ID and Password
+- Submit attendance
+- View attendance history
+- View attendance statistics
+
+---
+
+## Lecturer
+
+- Login
+- Generate one-time attendance password
+- View attendance records
+- Search attendance
+- Filter attendance
+- Update attendance status
+
+---
+
+## Administrator
+
+- Login
+- Manage attendance records
+- View dashboard metrics
+- Monitor attendance statistics
+
+---
+
+# Technology Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- Browser Local Storage
+- GitHub
+- GitHub Pages
+
+---
+
+# Folder Structure
+
+```
+project/
+
+├── landing-page/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+│
+├── prototype/
+│   ├── login.html
+│   ├── student-dashboard.html
+│   ├── lecturer-dashboard.html
+│   ├── admin-dashboard.html
+│   ├── attendance.html
+│   └── js/
+│       ├── database.js
+│       ├── login.js
+│       ├── attendance.js
+│       └── logout.js
+│
+├── docs/
+│   ├── implementation-plan.md
+│   ├── feature-implementation-status.md
+│   ├── startup-metrics.md
+│   ├── prototype-testing-notes.md
+│   ├── go-to-market-plan.md
+│   ├── marketing-message.md
+│   ├── acquisition-metrics.md
+│   └── weekly-logbook.md
+│
+└── data/
+    └── acquisition-metrics-template.csv
+```
+
+---
+
+# User Roles
+
+## Student
+
+- Submit attendance
+- View attendance history
+- Monitor attendance statistics
+
+---
+
+## Lecturer
+
+- Generate attendance password
+- Manage attendance records
+- Search and filter attendance
+
+---
+
+## Administrator
+
+- View system metrics
+- Manage attendance records
+- Monitor overall attendance
+
+---
+
+# Sample Login Accounts
+
+| Role | ID | Password |
+|------|----|----------|
+| Student | 65001 | 123456 |
+| Student | 65002 | 123456 |
+| Student | 65003 | 123456 |
+| Lecturer | L001 | lecturer123 |
+| Administrator | A001 | admin123 |
+
+---
+
+# Landing Page
+
+The landing page introduces the project, explains the problem and solution, presents key features, identifies target users, and encourages visitors to test the prototype.
+
+Main sections include:
+
+- Hero section
+- Problem and Solution
+- Features
+- Target Users
+- Workflow
+- Call-to-Action
+- Privacy Notice
+
+---
+
+# Prototype Workflow
+
+```
+Landing Page
+      ↓
+Try Demo
+      ↓
+Login
+      ↓
+Student / Lecturer / Admin Dashboard
+      ↓
+Attendance Functions
+```
+
+---
+
+# Digital Go-to-Market
+
+Promotion channels include:
+
+- Class Group Chat
+- University Email
+- Student Club Social Media
+- Classroom Presentation
+- Department Website
+
+---
+
+# Acquisition Metrics
+
+The project tracks:
+
+- Landing page views
+- CTA clicks
+- Prototype starts
+- Successful logins
+- Attendance submissions
+- Feedback responses
+
+Metrics are stored for demonstration purposes using Browser Local Storage.
+
+---
+
+# Privacy Notice
+
+This project is an academic prototype.
+
+All demonstration data is stored using Browser Local Storage only.
+
+Do not enter sensitive personal information.
+
+---
+
+# Future Improvements
+
+Possible future enhancements include:
+
+- Cloud database integration
+- Real-time attendance synchronization
+- QR code attendance
+- Face recognition
+- Email notifications
+- Mobile application support
+- Analytics dashboard
+
+---
+
+# Team Members
+
+| Name | Role |
+|------|------|
+| Harry | Product Lead |
+| William | Technical Lead |
+| Qing | UX/UI & Documentation Lead |
+
+---
+
+# Course Information
+
+**Course:** ICT111 – Introduction to Information Technology
+
+**Project:** Smart Classroom Attendance System
+
+---
+
+# License
+
+This project was developed for educational purposes as part of the ICT111 semester project.
