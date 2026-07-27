@@ -607,3 +607,146 @@ Lab 11 improved the Smart Classroom Attendance System from a basic visual protot
 # Lab 12 Weekly Logbook
 
 The Smart Classroom Attendance System helps students and lecturers record, monitor, and manage attendance more quickly and accurately.
+
+## Week
+
+Week 12
+
+---
+
+# Team Members
+
+| Name | Role |
+|------|------|
+| Harry | Product Lead |
+| William | Technical Lead |
+| Qing | UX/UI & Documentation Lead |
+
+---
+
+# Objectives
+
+This week's objectives were to:
+
+- Design a professional landing page.
+- Connect the landing page to the working prototype.
+- Develop a digital go-to-market strategy.
+- Prepare marketing messages for different communication channels.
+- Define acquisition metrics.
+- Create a template for recording marketing performance.
+- Prepare the project for GitHub Pages deployment.
+
+---
+
+# Tasks Completed
+
+| Task | Status |
+|------|--------|
+| Created landing page (HTML) | ✅ Completed |
+| Designed responsive landing page (CSS) | ✅ Completed |
+| Added JavaScript interactions | ✅ Completed |
+| Connected landing page to prototype | ✅ Completed |
+| Prepared Digital Go-to-Market Plan | ✅ Completed |
+| Created Marketing Messages document | ✅ Completed |
+| Created Acquisition Metrics document | ✅ Completed |
+| Created Acquisition Metrics CSV template | ✅ Completed |
+| Updated README | ✅ Completed |
+| Tested navigation links | ✅ Completed |
+
+---
+
+# Individual Contributions
+
+## Harry
+
+- Planned target users.
+- Identified suitable promotion channels.
+- Prepared the go-to-market strategy.
+- Reviewed project documentation.
+
+---
+
+## William
+
+- Developed the landing page.
+- Connected the landing page to the prototype.
+- Tested responsive layouts.
+- Implemented CTA tracking using Browser Local Storage.
+
+---
+
+## Qing
+
+- Designed marketing messages.
+- Prepared acquisition metrics.
+- Created CSV template.
+- Reviewed user experience and documentation.
+
+---
+
+# Problems Encountered
+
+| Problem | Solution |
+|----------|----------|
+| Choosing suitable promotion channels | Selected channels based on target users |
+| Making the landing page responsive | Used CSS media queries |
+| Linking landing page to prototype | Used relative links |
+| Tracking demo clicks | Stored metrics using Browser Local Storage |
+
+---
+
+# Skills Learned
+
+During Lab 12 we improved our skills in:
+
+- Landing page design
+- User experience
+- Responsive web design
+- Digital marketing planning
+- Go-to-market strategy
+- GitHub documentation
+- Browser Local Storage
+- JavaScript event handling
+- Marketing analytics
+
+---
+
+# Evidence Produced
+
+The following deliverables were completed:
+
+- landing-page/index.html
+- landing-page/style.css
+- landing-page/script.js
+- docs/go-to-market-plan.md
+- docs/marketing-message.md
+- docs/acquisition-metrics.md
+- data/acquisition-metrics-template.csv
+
+---
+
+# Reflection
+
+This lab helped the team understand that creating software is not only about building features but also about presenting the product to users. Designing a clear landing page, preparing marketing materials, and planning user acquisition showed how important communication and promotion are in software projects.
+
+The team also learned how to connect a prototype with a landing page and use simple metrics to evaluate user interest. These activities improved both technical and project management skills.
+
+---
+
+# Next Steps
+
+For the next lab, the team plans to:
+
+- Improve the prototype based on user feedback.
+- Record additional testing results.
+- Refine documentation.
+- Fix usability issues.
+- Prepare the final project submission.
+
+---
+
+# Overall Progress
+
+Overall progress toward the semester project is approximately **95% complete**.
+
+The prototype, landing page, documentation, and marketing materials have all been prepared, and only final refinements remain before submission.
