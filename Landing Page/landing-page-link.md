@@ -18,3 +18,5 @@ The landing page presents the Smart Classroom Attendance System to students, lec
 
 ```text
 landing-page/index.html
+
+prototype/login.html
