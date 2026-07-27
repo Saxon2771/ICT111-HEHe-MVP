@@ -1,0 +1,651 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>Smart Classroom Attendance System</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- Navigation Bar -->
+    <header class="header">
+
+        <nav class="navbar">
+
+            <a href="#" class="logo">
+                Attendify
+            </a>
+
+            <ul class="nav-menu" id="navMenu">
+
+                <li>
+                    <a href="#home">Home</a>
+                </li>
+
+                <li>
+                    <a href="#problem">Problem</a>
+                </li>
+
+                <li>
+                    <a href="#features">Features</a>
+                </li>
+
+                <li>
+                    <a href="#users">Users</a>
+                </li>
+
+                <li>
+                    <a href="#contact">Contact</a>
+                </li>
+
+            </ul>
+
+            <a
+                href="../prototype/login.html"
+                class="nav-button"
+                onclick="trackCTAClick('Navigation Login')"
+            >
+                Login
+            </a>
+
+            <button
+                type="button"
+                class="menu-button"
+                id="menuButton"
+                aria-label="Open navigation menu"
+            >
+                ☰
+            </button>
+
+        </nav>
+
+    </header>
+
+    <main>
+
+        <!-- Hero Section -->
+        <section class="hero" id="home">
+
+            <div class="hero-content">
+
+                <span class="small-title">
+                    Smart Attendance Management
+                </span>
+
+                <h1>
+                    Make Classroom Attendance
+                    <span>Faster and Easier</span>
+                </h1>
+
+                <p>
+                    Record attendance using Student ID and Password,
+                    view attendance history, and monitor classroom
+                    performance through role-based dashboards.
+                </p>
+
+                <div class="hero-buttons">
+
+                    <a
+                        href="../prototype/login.html"
+                        class="primary-button"
+                        onclick="trackCTAClick('Try Demo')"
+                    >
+                        Try the Demo
+                    </a>
+
+                    <a
+                        href="#features"
+                        class="secondary-button"
+                    >
+                        Explore Features
+                    </a>
+
+                </div>
+
+                <div class="hero-statistics">
+
+                    <div class="stat-item">
+                        <strong>3</strong>
+                        <span>User Roles</span>
+                    </div>
+
+                    <div class="stat-item">
+                        <strong>100%</strong>
+                        <span>Browser Based</span>
+                    </div>
+
+                    <div class="stat-item">
+                        <strong>Fast</strong>
+                        <span>Attendance Process</span>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="dashboard-preview">
+
+                <div class="preview-topbar">
+
+                    <div class="window-dots">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
+
+                    <p>Student Dashboard</p>
+
+                </div>
+
+                <div class="preview-body">
+
+                    <div class="preview-heading">
+
+                        <div>
+                            <h3>Welcome back, Harry</h3>
+                            <p>Your attendance overview</p>
+                        </div>
+
+                        <div class="preview-avatar">
+                            H
+                        </div>
+
+                    </div>
+
+                    <div class="preview-cards">
+
+                        <div class="preview-card">
+                            <span>Total Classes</span>
+                            <strong>42</strong>
+                        </div>
+
+                        <div class="preview-card">
+                            <span>Present</span>
+                            <strong>36</strong>
+                        </div>
+
+                        <div class="preview-card">
+                            <span>Attendance</span>
+                            <strong>86%</strong>
+                        </div>
+
+                    </div>
+
+                    <div class="preview-table">
+
+                        <div class="table-title">
+                            Recent Attendance
+                        </div>
+
+                        <div class="preview-row">
+
+                            <div>
+                                <strong>Web Development</strong>
+                                <span>10:00 AM</span>
+                            </div>
+
+                            <span class="status present">
+                                Present
+                            </span>
+
+                        </div>
+
+                        <div class="preview-row">
+
+                            <div>
+                                <strong>Database Systems</strong>
+                                <span>11:30 AM</span>
+                            </div>
+
+                            <span class="status present">
+                                Present
+                            </span>
+
+                        </div>
+
+                        <div class="preview-row">
+
+                            <div>
+                                <strong>Software Engineering</strong>
+                                <span>9:00 AM</span>
+                            </div>
+
+                            <span class="status absent">
+                                Absent
+                            </span>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
+
+        <!-- Problem and Solution Section -->
+        <section class="section problem-section" id="problem">
+
+            <div class="section-heading">
+
+                <span class="small-title">
+                    Problem and Solution
+                </span>
+
+                <h2>
+                    A Better Way to Manage Classroom Attendance
+                </h2>
+
+                <p>
+                    The system reduces manual work and provides clearer
+                    attendance information for students and staff.
+                </p>
+
+            </div>
+
+            <div class="problem-grid">
+
+                <article class="problem-card">
+
+                    <div class="card-icon problem-icon">
+                        !
+                    </div>
+
+                    <h3>The Problem</h3>
+
+                    <p>
+                        Manual attendance takes valuable class time and
+                        may create missing, duplicated, or inaccurate
+                        records. Students may also have limited access
+                        to their attendance history.
+                    </p>
+
+                    <ul>
+                        <li>Slow attendance process</li>
+                        <li>Possible record errors</li>
+                        <li>Limited student visibility</li>
+                        <li>Difficult report preparation</li>
+                    </ul>
+
+                </article>
+
+                <article class="problem-card solution-card">
+
+                    <div class="card-icon solution-icon">
+                        ✓
+                    </div>
+
+                    <h3>Our Solution</h3>
+
+                    <p>
+                        Attendify provides a browser-based system where
+                        students submit attendance and staff monitor,
+                        search, filter, and manage attendance records.
+                    </p>
+
+                    <ul>
+                        <li>Student ID and Password login</li>
+                        <li>Fast attendance submission</li>
+                        <li>Clear attendance history</li>
+                        <li>Useful dashboard metrics</li>
+                    </ul>
+
+                </article>
+
+            </div>
+
+        </section>
+
+        <!-- Features Section -->
+        <section class="section features-section" id="features">
+
+            <div class="section-heading">
+
+                <span class="small-title">
+                    Core Features
+                </span>
+
+                <h2>
+                    Everything Needed for the Main Attendance Workflow
+                </h2>
+
+                <p>
+                    Each feature supports the real requirements of the
+                    Smart Classroom Attendance System.
+                </p>
+
+            </div>
+
+            <div class="features-grid">
+
+                <article class="feature-card">
+
+                    <div class="feature-number">
+                        01
+                    </div>
+
+                    <h3>Role-Based Login</h3>
+
+                    <p>
+                        Students, lecturers, and administrators log in
+                        using their ID and Password.
+                    </p>
+
+                </article>
+
+                <article class="feature-card">
+
+                    <div class="feature-number">
+                        02
+                    </div>
+
+                    <h3>Attendance Recording</h3>
+
+                    <p>
+                        Students submit attendance using a course name
+                        and one-time attendance password.
+                    </p>
+
+                </article>
+
+                <article class="feature-card">
+
+                    <div class="feature-number">
+                        03
+                    </div>
+
+                    <h3>Attendance History</h3>
+
+                    <p>
+                        Students can review previous records, dates,
+                        subjects, times, and attendance status.
+                    </p>
+
+                </article>
+
+                <article class="feature-card">
+
+                    <div class="feature-number">
+                        04
+                    </div>
+
+                    <h3>Search and Filter</h3>
+
+                    <p>
+                        Lecturers and administrators can search records
+                        by student, course, or attendance status.
+                    </p>
+
+                </article>
+
+                <article class="feature-card">
+
+                    <div class="feature-number">
+                        05
+                    </div>
+
+                    <h3>Dashboard Metrics</h3>
+
+                    <p>
+                        View total users, attendance records, present
+                        records, absent records, and attendance rate.
+                    </p>
+
+                </article>
+
+                <article class="feature-card">
+
+                    <div class="feature-number">
+                        06
+                    </div>
+
+                    <h3>Status Management</h3>
+
+                    <p>
+                        Authorized users can update attendance status
+                        when corrections are necessary.
+                    </p>
+
+                </article>
+
+            </div>
+
+        </section>
+
+        <!-- Target Users Section -->
+        <section class="section users-section" id="users">
+
+            <div class="section-heading">
+
+                <span class="small-title">
+                    Target Users
+                </span>
+
+                <h2>
+                    Designed for the Whole Classroom Community
+                </h2>
+
+                <p>
+                    The system provides a different dashboard and
+                    workflow for each type of user.
+                </p>
+
+            </div>
+
+            <div class="users-grid">
+
+                <article class="user-card">
+
+                    <div class="user-avatar">
+                        S
+                    </div>
+
+                    <h3>Students</h3>
+
+                    <p>
+                        Submit attendance, view personal attendance
+                        history, and monitor attendance performance.
+                    </p>
+
+                    <span>Student Dashboard</span>
+
+                </article>
+
+                <article class="user-card">
+
+                    <div class="user-avatar">
+                        L
+                    </div>
+
+                    <h3>Lecturers</h3>
+
+                    <p>
+                        Generate attendance passwords, review student
+                        records, and monitor classroom activity.
+                    </p>
+
+                    <span>Lecturer Dashboard</span>
+
+                </article>
+
+                <article class="user-card">
+
+                    <div class="user-avatar">
+                        A
+                    </div>
+
+                    <h3>Administrators</h3>
+
+                    <p>
+                        Manage users, update attendance records, and
+                        review overall system metrics.
+                    </p>
+
+                    <span>Admin Dashboard</span>
+
+                </article>
+
+            </div>
+
+        </section>
+
+        <!-- How It Works Section -->
+        <section class="section workflow-section">
+
+            <div class="section-heading">
+
+                <span class="small-title">
+                    How It Works
+                </span>
+
+                <h2>
+                    Complete Attendance in Three Simple Steps
+                </h2>
+
+            </div>
+
+            <div class="workflow-grid">
+
+                <article class="workflow-card">
+
+                    <span class="step-number">
+                        1
+                    </span>
+
+                    <h3>Log In</h3>
+
+                    <p>
+                        Enter your Student ID or staff ID and password
+                        to access the correct dashboard.
+                    </p>
+
+                </article>
+
+                <article class="workflow-card">
+
+                    <span class="step-number">
+                        2
+                    </span>
+
+                    <h3>Submit Attendance</h3>
+
+                    <p>
+                        Select or enter the course and submit the
+                        one-time attendance password.
+                    </p>
+
+                </article>
+
+                <article class="workflow-card">
+
+                    <span class="step-number">
+                        3
+                    </span>
+
+                    <h3>View Records</h3>
+
+                    <p>
+                        Review saved attendance records, status, and
+                        dashboard summaries.
+                    </p>
+
+                </article>
+
+            </div>
+
+        </section>
+
+        <!-- Call to Action Section -->
+        <section class="cta-section">
+
+            <div class="cta-content">
+
+                <span class="small-title">
+                    Working Prototype
+                </span>
+
+                <h2>
+                    Ready to Test Smarter Attendance?
+                </h2>
+
+                <p>
+                    Open the working prototype and experience the main
+                    attendance workflow from login to dashboard.
+                </p>
+
+            </div>
+
+            <a
+                href="../prototype/login.html"
+                class="cta-button"
+                onclick="trackCTAClick('Bottom Open Demo')"
+            >
+                Open Prototype
+            </a>
+
+        </section>
+
+        <!-- Privacy Section -->
+        <section class="privacy-section" id="contact">
+
+            <div class="privacy-box">
+
+                <div class="privacy-icon">
+                    i
+                </div>
+
+                <div>
+                    <h2>Responsible Data Use</h2>
+
+                    <p>
+                        This academic prototype stores demonstration
+                        data using Browser Local Storage. Do not enter
+                        sensitive personal information. Data may be
+                        removed when browser storage is cleared.
+                    </p>
+                </div>
+
+            </div>
+
+        </section>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+
+        <div>
+            <h3>Attendify</h3>
+
+            <p>
+                Smart Classroom Attendance System
+            </p>
+        </div>
+
+        <div class="footer-information">
+
+            <p>
+                ICT111 Semester Project
+            </p>
+
+            <p id="ctaCounter">
+                Demo interest clicks: 0
+            </p>
+
+        </div>
+
+    </footer>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
