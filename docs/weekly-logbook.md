@@ -608,9 +608,7 @@ Lab 11 improved the Smart Classroom Attendance System from a basic visual protot
 
 The Smart Classroom Attendance System helps students and lecturers record, monitor, and manage attendance more quickly and accurately.
 
-## Week
-
-Week 12
+## Week 12
 
 ---
 
@@ -618,9 +616,9 @@ Week 12
 
 | Name | Role |
 |------|------|
-| Harry | Product Lead |
-| William | Technical Lead |
-| Qing | UX/UI & Documentation Lead |
+| Sai Kaung Htet Kyaw | Product Lead |
+| Htut Myat Moe | Technical Lead |
+| Hein Htet | UX/UI & Documentation Lead |
 
 ---
 
@@ -657,7 +655,7 @@ This week's objectives were to:
 
 # Individual Contributions
 
-## Harry
+## Htut Myat Moe
 
 - Planned target users.
 - Identified suitable promotion channels.
@@ -666,7 +664,7 @@ This week's objectives were to:
 
 ---
 
-## William
+## Sai Kaung Htet Kyaw
 
 - Developed the landing page.
 - Connected the landing page to the prototype.
@@ -675,7 +673,7 @@ This week's objectives were to:
 
 ---
 
-## Qing
+## Hein Htet
 
 - Designed marketing messages.
 - Prepared acquisition metrics.
@@ -750,3 +748,248 @@ For the next lab, the team plans to:
 Overall progress toward the semester project is approximately **95% complete**.
 
 The prototype, landing page, documentation, and marketing materials have all been prepared, and only final refinements remain before submission.
+
+# Lab 13 Weekly Logbook
+
+## Project
+
+Smart Classroom Attendance System
+
+## Week
+
+Lab 13 – Sales Scenario, Demo Script, and User Testing
+
+---
+
+## Objectives
+
+The objectives for Lab 13 were to:
+
+* Prepare a realistic sales scenario for the system.
+* Identify the target users and decision-makers.
+* Explain the product's main value.
+* Create a step-by-step prototype demonstration script.
+* Prepare a user testing plan.
+* Evaluate the main prototype functions.
+* Record testing results and feedback.
+* Identify final improvements before Lab 14.
+
+---
+
+## Activities Completed
+
+| Activity                                      | Status    |
+| --------------------------------------------- | --------- |
+| Prepared the sales scenario                   | Completed |
+| Identified target users and customers         | Completed |
+| Created the product value proposition         | Completed |
+| Applied the 4 P's marketing strategy          | Completed |
+| Prepared the prototype demo script            | Completed |
+| Defined the final demonstration flow          | Completed |
+| Prepared the user testing plan                | Completed |
+| Created user testing tasks                    | Completed |
+| Recorded structured simulated testing results | Completed |
+| Analyzed usability problems                   | Completed |
+| Created the final improvement list            | Completed |
+| Prepared the final pitch outline              | Completed |
+| Updated GitHub documentation                  | Completed |
+
+---
+
+## Sales Scenario
+
+The sales scenario introduces the Smart Classroom Attendance System to university students, lecturers, and academic administrators.
+
+The main problem is that manual attendance methods can take too much class time and may create missing, duplicated, or inaccurate records. Students may also have difficulty checking their attendance history, while lecturers spend additional time organizing attendance information.
+
+The system provides a browser-based solution that allows users to:
+
+* Log in using an ID and Password.
+* Submit attendance.
+* View attendance history.
+* Search and filter attendance records.
+* Update attendance status.
+* View attendance statistics.
+* Access role-based dashboards.
+
+The main value of the system is reducing manual attendance work, improving record accuracy, and providing faster access to attendance information.
+
+---
+
+## Demo Script
+
+A step-by-step demonstration script was prepared for the prototype.
+
+The demonstration follows this order:
+
+1. Introduce the manual attendance problem.
+2. Open the project landing page.
+3. Log in using a student account.
+4. Submit an attendance record.
+5. Show attendance confirmation and history.
+6. Log in using a lecturer account.
+7. View attendance records.
+8. Search and filter attendance information.
+9. Update an attendance status.
+10. Show dashboard metrics.
+11. Review the administrator interface.
+12. Explain the remaining improvements.
+13. Present the user testing evidence.
+14. End with the product value message.
+
+---
+
+## User Testing
+
+A structured simulated user test was prepared using representative student, lecturer, and administrator profiles.
+
+The testing tasks included:
+
+1. Understanding the purpose of the landing page.
+2. Logging in using a valid account.
+3. Submitting attendance.
+4. Viewing attendance history.
+5. Viewing lecturer attendance records.
+6. Searching and filtering attendance records.
+7. Exporting an attendance report.
+8. Managing student and course information.
+
+---
+
+## User Testing Results
+
+| Metric                          |       Result |
+| ------------------------------- | -----------: |
+| Total task attempts             |           40 |
+| Fully completed tasks           |           29 |
+| Partially completed tasks       |            6 |
+| Failed tasks                    |            5 |
+| Full completion rate            |        72.5% |
+| Full or partial completion rate |        87.5% |
+| Average feedback score          | 3.9 out of 5 |
+
+---
+
+## Features Working Successfully
+
+The following prototype functions worked successfully:
+
+* ID and Password login
+* Role-based user access
+* Attendance submission
+* Duplicate attendance prevention
+* Automatic attendance storage
+* Attendance history
+* Lecturer attendance record viewing
+* Attendance search and filtering
+* Attendance status updates
+* Dashboard metrics
+* Logout function
+
+---
+
+## Problems Encountered
+
+The following problems were identified:
+
+* Attendance report export is not yet implemented.
+* Administrator student management is incomplete.
+* Administrator course management is incomplete.
+* Some older documents still mention QR-code attendance.
+* Requirement IDs are inconsistent across some documents.
+* Attendance-password instructions are not clear enough.
+* Some search and filter labels need improvement.
+* Mobile responsiveness requires additional testing.
+* Browser Local Storage does not synchronize data between devices.
+* The current authentication method is suitable only for a prototype.
+
+---
+
+## Solutions and Improvements
+
+The following improvements were planned:
+
+* Implement attendance report export in CSV or PDF format.
+* Complete administrator student management.
+* Complete administrator course management.
+* Use `system-requirements.md` as the main requirement reference.
+* Remove outdated QR-code descriptions.
+* Improve attendance-password instructions.
+* Add clearer validation and confirmation messages.
+* Improve search and filter labels.
+* Add a Reset Filters button.
+* Test the prototype on mobile screen sizes.
+* Retest all Critical functions before Lab 14.
+
+---
+
+## Skills Learned
+
+During Lab 13, I improved my skills in:
+
+* Sales scenario development
+* Product value communication
+* Marketing mix planning
+* Prototype demonstration planning
+* User testing
+* Usability evaluation
+* Requirement traceability
+* Testing data analysis
+* Improvement prioritization
+* GitHub documentation
+* Final presentation preparation
+
+---
+
+## Evidence Produced
+
+The following files were completed:
+
+* `docs/sales-scenario.md`
+* `docs/demo-script.md`
+* `docs/user-testing-plan.md`
+* `docs/user-testing-results.md`
+* `docs/final-improvement-list.md`
+* `data/user-testing-results.csv`
+* `data/final-improvement-list.csv`
+* `pitch/demo-outline.md`
+* `prototype/final-demo-link.md`
+* `screenshots/demo-flow.png`
+* `screenshots/user-testing-evidence.png`
+
+---
+
+## Reflection
+
+Lab 13 helped us understand that developing an IT product also requires explaining its value, demonstrating its functions, and evaluating it from the user's perspective.
+
+The sales scenario helped explain the problem, target users, product solution, and expected customer action. The demo script created a clear order for presenting the prototype.
+
+The testing process also helped identify which functions were working and which features still needed improvement. The main student and lecturer workflows are functional, but report export and complete administrator management must be finished before the final release.
+
+---
+
+## Next Steps
+
+For Lab 14, We plan to:
+
+* Implement attendance report export.
+* Complete administrator student management.
+* Complete administrator course management.
+* Align requirement IDs across all documents.
+* Remove outdated QR-code descriptions.
+* Improve form instructions and validation.
+* Retest the complete prototype.
+* Capture updated screenshots.
+* Update the README and implementation status.
+* Practice the final prototype demonstration.
+* Prepare the final MVP release and venture pitch.
+
+---
+
+## Overall Progress
+
+Overall progress toward the semester project is approximately **95% complete**.
+
+The main prototype workflow, landing page, sales materials, testing documents, and demonstration plan have been prepared. Only the final Critical improvements and retesting remain before Lab 14.
+
