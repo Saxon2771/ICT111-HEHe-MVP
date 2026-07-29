@@ -1,0 +1,11 @@
+ParticipantID,UserType,Role,LoginSuccess,AttendanceRecorded,AttendanceHistoryViewed,DashboardAccess,AttendanceReportViewed,CompletionTime(seconds),ErrorsEncountered,SatisfactionScore,WouldRecommend,Comments
+P001,Student,First-Year Student,Yes,Yes,Yes,N/A,N/A,45,0,5,Yes,Easy login and attendance recording.
+P002,Student,First-Year Student,Yes,Yes,Yes,N/A,N/A,48,0,4,Yes,Simple interface and clear navigation.
+P003,Student,Second-Year Student,Yes,Yes,Yes,N/A,N/A,52,1,4,Yes,Entered incorrect password on first attempt.
+P004,Student,Second-Year Student,Yes,Yes,Yes,N/A,N/A,43,0,5,Yes,Attendance history is useful.
+P005,Student,Third-Year Student,Yes,Yes,Yes,N/A,N/A,58,1,4,Yes,Attendance button could be more visible.
+P006,Student,First-Year Student,Yes,Yes,Yes,N/A,N/A,46,0,5,Yes,Much faster than paper attendance.
+P007,Student,Second-Year Student,Yes,Yes,Yes,N/A,N/A,50,0,5,Yes,Easy to understand and use.
+P008,Student,Third-Year Student,Yes,Yes,Yes,N/A,N/A,47,0,4,Yes,Would like a password reset feature.
+P009,Lecturer,Course Lecturer,Yes,N/A,N/A,Yes,Yes,62,0,5,Yes,Dashboard makes attendance monitoring easier.
+P010,Administrator,System Administrator,Yes,N/A,N/A,Yes,Yes,70,0,5,Yes,System management functions are straightforward.
