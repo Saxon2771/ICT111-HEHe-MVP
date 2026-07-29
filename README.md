@@ -294,9 +294,9 @@ The prototype is built using HTML, CSS, and JavaScript with Browser Local Storag
 
 | Name | Role |
 |------|------|
-| Harry | Product Lead |
-| William | Technical Lead |
-| Qing | UI/UX and Documentation |
+| Hein Htet | Product Lead |
+| Htut Myat Moe | Technical Lead |
+| Sai Kaung Htet Kyaw | UI/UX and Documentation |
 
 ---
 
@@ -695,9 +695,9 @@ Possible future enhancements include:
 
 | Name | Role |
 |------|------|
-| Harry | Product Lead |
-| William | Technical Lead |
-| Qing | UX/UI & Documentation Lead |
+| Hein Htet | Product Lead |
+| Htut Myat Moe | Technical Lead |
+| Sai Kaung Htet Kyaw | UX/UI & Documentation Lead |
 
 ---
 
@@ -712,3 +712,103 @@ Possible future enhancements include:
 # License
 
 This project was developed for educational purposes as part of the ICT111 semester project.
+
+
+## Lab 13 - Sales Scenario, Demo Script, and User Testing
+
+### Lab 13 Objective
+
+During Lab 13, the team prepared a realistic sales scenario, a screen-by-screen prototype demonstration script, a user testing plan, structured testing results, and a prioritized final improvement list before the Lab 14 MVP release and venture pitch.
+
+### Sales Scenario
+
+The Smart Classroom Attendance System is introduced to students, lecturers, and academic administrators who currently experience slow manual attendance, missing records, and difficulty reviewing attendance history.
+
+The product value message is:
+
+> For university students, lecturers, and academic administrators who experience slow and inaccurate manual attendance processes, our Smart Classroom Attendance System helps them record, view, and manage attendance more efficiently through role-based login, automatic storage, searchable records, and clear dashboards.
+
+### Final Demo Flow
+
+```text
+Landing Page
+    ↓
+Student Login
+    ↓
+Attendance Submission
+    ↓
+Attendance History
+    ↓
+Lecturer Dashboard
+    ↓
+Search and Filtering
+    ↓
+Status Update and Metrics
+    ↓
+Administrator Requirement Review
+    ↓
+Testing Evidence and Closing
+```
+
+### User Testing Summary
+
+Lab 13 used a structured simulated final user test with five representative profiles:
+
+- 3 students
+- 1 lecturer
+- 1 academic administrator representative
+
+| Metric | Result |
+| --- | ---: |
+| Total task attempts | 40 |
+| Fully completed | 25 |
+| Partially completed | 8 |
+| Failed | 7 |
+| Full completion rate | 62.5% |
+| Full or partial completion rate | 82.5% |
+| Average feedback score | 3.4 / 5 |
+
+### Main Findings
+
+Working core functions:
+
+- Student ID and Password login
+- Attendance submission
+- Duplicate attendance prevention
+- Attendance history
+- Lecturer record viewing
+- Search and filtering
+- Status updates
+- Dashboard metrics
+- Logout
+
+Critical final improvements:
+
+1. Implement attendance report export for FR8.
+2. Complete administrator student and course management for FR9 and FR10.
+
+Important documentation improvements:
+
+- Align requirement IDs across all project documents.
+- Remove outdated QR-code wording.
+- Improve attendance-password instructions and validation.
+- Retest all major functions before Lab 14.
+
+### Prototype / Demo Access
+
+Repository:
+
+https://github.com/heinht67-code/hdsfhd
+
+Local landing page:
+
+```text
+Landing page/index.html
+```
+
+Local prototype login:
+
+```text
+prototype/login.html
+```
+
