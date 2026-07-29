@@ -1,0 +1,41 @@
+Tester_ID	Tester_Type	Task_ID	Task_Description	Completed	Completion_Time_Min	Confusion_Point	Feedback_Score_1_5	Comment	Related_Requirement	Improvement_Action	Testing_Mode
+U01	Student	T01	Understand landing page purpose	Yes	0.7	None	5	Purpose and target users were clear.	FR1/FR2/NFR1	No change required.	Simulated
+U01	Student	T02	Log in using Student ID and Password	Yes	0.5	None	5	Student login was simple.	FR1/FR3/NFR2/NFR3	Keep sample credentials visible during testing.	Simulated
+U01	Student	T03	Submit attendance	Yes	1.2	None	4	Attendance was saved successfully.	FR2/FR4/NFR5/NFR7	Add a stronger success confirmation.	Simulated
+U01	Student	T04	View attendance history	Yes	0.6	None	4	The new record was easy to find.	FR5	Add a short status legend.	Simulated
+U01	Student	T05	Lecturer views attendance records	Partial	1.5	Student tester was unfamiliar with lecturer navigation	3	Could find records after exploring the menu.	FR6	Improve lecturer navigation labels.	Simulated
+U01	Student	T06	Search or filter attendance records	Yes	0.9	None	4	Search returned the expected record.	FR7	Add Reset Filters.	Simulated
+U01	Student	T07	Export attendance report	No	0.3	Export function unavailable	2	No report could be downloaded.	FR8	Implement CSV or PDF export.	Simulated
+U01	Student	T08	Manage students and courses	Partial	1.1	Admin editing not available	2	Could view admin information but not edit it.	FR9/FR10	Complete student and course editing.	Simulated
+U02	Student	T01	Understand landing page purpose	Yes	0.8	None	4	The landing page explained the main problem.	FR1/FR2/NFR1	Make the Try Demo button more prominent.	Simulated
+U02	Student	T02	Log in using Student ID and Password	Yes	0.6	None	4	Login worked with the sample account.	FR1/FR3/NFR2/NFR3	Improve invalid-login guidance.	Simulated
+U02	Student	T03	Submit attendance	Partial	2	Attendance-password instruction unclear	3	Needed a second attempt to understand the field.	FR2/FR4/NFR5/NFR7	Add an example beside the field.	Simulated
+U02	Student	T04	View attendance history	Yes	0.7	None	4	Attendance history was understandable.	FR5	Keep newest record at the top.	Simulated
+U02	Student	T05	Lecturer views attendance records	Yes	1	None	4	Lecturer records were visible.	FR6	No major change required.	Simulated
+U02	Student	T06	Search or filter attendance records	Partial	1.6	Selected the wrong status filter	3	Filter labels were too general.	FR7	Rename filters and add Reset Filters.	Simulated
+U02	Student	T07	Export attendance report	No	0.3	Export function unavailable	1	Expected a download button.	FR8	Implement and label report export.	Simulated
+U02	Student	T08	Manage students and courses	No	0.8	Student and course editing unavailable	2	Administrator actions were incomplete.	FR9/FR10	Add create, edit, and delete controls.	Simulated
+U03	Student	T01	Understand landing page purpose	Yes	0.6	None	5	The product benefit was easy to understand.	FR1/FR2/NFR1	No change required.	Simulated
+U03	Student	T02	Log in using Student ID and Password	Yes	0.5	None	5	Role redirection worked.	FR1/FR3/NFR2/NFR3	No change required.	Simulated
+U03	Student	T03	Submit attendance	Yes	1	None	4	Duplicate submission warning was useful.	FR2/FR4/NFR5/NFR7	Keep duplicate prevention.	Simulated
+U03	Student	T04	View attendance history	Yes	0.5	None	5	The saved record appeared correctly.	FR5	No change required.	Simulated
+U03	Student	T05	Lecturer views attendance records	Yes	0.9	None	4	The lecturer record view was clear.	FR6	Add a page heading above the list.	Simulated
+U03	Student	T06	Search or filter attendance records	Yes	0.8	None	4	Search by Student ID worked.	FR7	Add a clear-search control.	Simulated
+U03	Student	T07	Export attendance report	No	0.3	Export function unavailable	1	Could not complete the task.	FR8	Implement export before Lab 14.	Simulated
+U03	Student	T08	Manage students and courses	Partial	1	Admin can view but cannot fully edit	2	Expected editable student and course forms.	FR9/FR10	Complete FR9 and FR10.	Simulated
+U04	Lecturer	T01	Understand landing page purpose	Yes	0.7	None	4	The lecturer use case was clear.	FR1/FR2/NFR1	Mention time saved in the value message.	Simulated
+U04	Lecturer	T02	Log in using Student ID and Password	Yes	0.7	Role wording focused on Student ID	4	Lecturer login still worked with L001.	FR1/FR3/NFR2/NFR3	Use a general User ID label or role-specific label.	Simulated
+U04	Lecturer	T03	Submit attendance	Yes	1.3	None	4	Student attendance workflow was understandable.	FR2/FR4/NFR5/NFR7	Add short lecturer instructions for attendance passwords.	Simulated
+U04	Lecturer	T04	View attendance history	Yes	0.8	None	4	History provided useful confirmation.	FR5	Include total attendance summary.	Simulated
+U04	Lecturer	T05	Lecturer views attendance records	Yes	0.7	None	5	Attendance records were easy to review.	FR6	No change required.	Simulated
+U04	Lecturer	T06	Search or filter attendance records	Yes	0.7	None	5	Search and filters supported the lecturer task.	FR7	Add export next to the filters.	Simulated
+U04	Lecturer	T07	Export attendance report	No	0.4	Export function unavailable	1	Report export is required for lecturer work.	FR8	Implement CSV and optionally PDF export.	Simulated
+U04	Lecturer	T08	Manage students and courses	Partial	1.1	Course-management controls incomplete	2	Could review information but not maintain it.	FR9/FR10	Complete administrator course functions.	Simulated
+U05	Administrator representative	T01	Understand landing page purpose	Yes	0.9	None	4	The administrator value was understandable.	FR1/FR2/NFR1	Add a sentence about reporting and oversight.	Simulated
+U05	Administrator representative	T02	Log in using Student ID and Password	Yes	0.6	Login field says Student ID	3	Administrator account worked but the label was confusing.	FR1/FR3/NFR2/NFR3	Change label to User ID or adapt it by role.	Simulated
+U05	Administrator representative	T03	Submit attendance	Partial	1.7	Needed explanation of attendance password	3	Workflow worked after clarification.	FR2/FR4/NFR5/NFR7	Add contextual help.	Simulated
+U05	Administrator representative	T04	View attendance history	Yes	0.7	None	4	Record status was understandable.	FR5	Add status legend.	Simulated
+U05	Administrator representative	T05	Lecturer views attendance records	Partial	1.4	Record-list location was not obvious	3	Found the records after checking navigation.	FR6	Improve dashboard navigation.	Simulated
+U05	Administrator representative	T06	Search or filter attendance records	Yes	1	None	4	Filters produced the expected records.	FR7	Add Reset Filters.	Simulated
+U05	Administrator representative	T07	Export attendance report	No	0.4	Export function unavailable	1	Administrator needs downloadable reports.	FR8	Implement report export.	Simulated
+U05	Administrator representative	T08	Manage students and courses	No	1	Student and course editing unavailable	1	Required administrator management could not be completed.	FR9/FR10	Complete FR9 and FR10 before release.	Simulated
