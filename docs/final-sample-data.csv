@@ -1,0 +1,16 @@
+RecordID,StudentID,StudentName,Course,Date,Time,Status,AttendanceCode,RecordedBy,Notes
+ATT001,65001,Harry,Web Development,2026-07-20,09:00,Present,WEB101,Student,Attendance submitted successfully
+ATT002,65002,William,Web Development,2026-07-20,09:02,Present,WEB101,Student,Attendance submitted successfully
+ATT003,65003,Qing,Web Development,2026-07-20,09:12,Late,WEB101,Student,Student arrived after class started
+ATT004,65001,Harry,Database Systems,2026-07-21,10:00,Present,DBS202,Student,Attendance submitted successfully
+ATT005,65002,William,Database Systems,2026-07-21,10:03,Present,DBS202,Student,Attendance submitted successfully
+ATT006,65003,Qing,Database Systems,2026-07-21,10:00,Absent,DBS202,Lecturer,Status updated by lecturer
+ATT007,65001,Harry,Software Engineering,2026-07-22,11:00,Present,SWE303,Student,Attendance submitted successfully
+ATT008,65002,William,Software Engineering,2026-07-22,11:08,Late,SWE303,Student,Student arrived late
+ATT009,65003,Qing,Software Engineering,2026-07-22,11:01,Present,SWE303,Student,Attendance submitted successfully
+ATT010,65001,Harry,Introduction to Information Technology,2026-07-23,08:30,Present,ICT111,Student,Attendance submitted successfully
+ATT011,65002,William,Introduction to Information Technology,2026-07-23,08:32,Present,ICT111,Student,Attendance submitted successfully
+ATT012,65003,Qing,Introduction to Information Technology,2026-07-23,08:30,Absent,ICT111,Admin,Status corrected by administrator
+ATT013,65001,Harry,Fundamental Technology Entrepreneurship,2026-07-24,13:00,Present,ICT105,Student,Attendance submitted successfully
+ATT014,65002,William,Fundamental Technology Entrepreneurship,2026-07-24,13:05,Late,ICT105,Student,Student arrived after attendance period
+ATT015,65003,Qing,Fundamental Technology Entrepreneurship,2026-07-24,13:01,Present,ICT105,Student,Attendance submitted successfully
