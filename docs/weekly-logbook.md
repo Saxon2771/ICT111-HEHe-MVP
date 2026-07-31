@@ -993,3 +993,54 @@ Overall progress toward the semester project is approximately **95% complete**.
 
 The main prototype workflow, landing page, sales materials, testing documents, and demonstration plan have been prepared. Only the final Critical improvements and retesting remain before Lab 14.
 
+
+# Lab 14 – Final MVP Release and Venture Pitch
+
+## Objectives
+
+- Audit the prototype against final requirements.
+- Package the final prototype and sample data.
+- Create the final traceability matrix.
+- Prepare the final prototype report.
+- Prepare a 5–7 minute demonstration.
+- Prepare the venture pitch.
+- Capture final screenshots.
+- Clean and organize the GitHub repository.
+
+## Tasks Completed
+
+| Task | Status |
+|---|---|
+| Final requirement audit | Completed |
+| Final traceability matrix | Completed |
+| Prototype testing | Completed |
+| Final sample data | Completed |
+| Final screenshots | Completed |
+| Final prototype report | Completed |
+| Final demo script | Completed |
+| Final pitch outline | Completed |
+| Final reflection | Completed |
+| Final submission checklist | Completed |
+| README update | Completed |
+| Repository cleanup | Completed |
+
+## Team Contributions
+
+| Team Member | Contribution |
+|---|---|
+| Harry | Requirement audit, project value, final report, and pitch content |
+| William | Final prototype integration, technical testing, Local Storage, and demo preparation |
+| Qing | Screenshots, documentation review, final reflection, and presentation design |
+
+## Problems Encountered
+
+| Problem | Solution |
+|---|---|
+| Inconsistent file links | Reviewed and corrected relative file paths |
+| Duplicate or outdated documents | Removed duplicates and updated final versions |
+| Missing requirement evidence | Created the final traceability matrix |
+| Prototype testing errors | Tested each role and corrected JavaScript issues |
+
+## Reflection
+
+Lab 14 helped the team integrate all previous lab outputs into one complete product repository. The final Smart Classroom Attendance System demonstrates the main attendance workflow, data storage, record management, dashboard metrics, and role-based functions. The team also learned how to explain technical work as a venture with a clear problem, target users, value proposition, validation evidence, and go-to-market strategy.
