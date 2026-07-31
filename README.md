@@ -812,3 +812,11 @@ Local prototype login:
 prototype/login.html
 ```
 
+# Final Lab 14 Release
+
+## Final Prototype
+
+The final prototype is available in:
+
+```text
+prototype/index.html
